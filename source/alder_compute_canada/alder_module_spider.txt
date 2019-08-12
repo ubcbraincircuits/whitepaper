@@ -1,0 +1,257 @@
+---------------------------------------------------------------------------------------------------------------------
+The following is a list of the modules currently available:
+---------------------------------------------------------------------------------------------------------------------
+  CUnit: CUnit/2.1-3
+
+  DefaultModules: DefaultModules
+
+  R: R/3.4.0
+
+  acml/gcc-int64/64: acml/gcc-int64/64/5.3.1
+
+  acml/gcc-int64/fma4: acml/gcc-int64/fma4/5.3.1
+
+  acml/gcc-int64/mp/64: acml/gcc-int64/mp/64/5.3.1
+
+  acml/gcc-int64/mp/fma4: acml/gcc-int64/mp/fma4/5.3.1
+
+  acml/gcc/64: acml/gcc/64/5.3.1
+
+  acml/gcc/fma4: acml/gcc/fma4/5.3.1
+
+  acml/gcc/mp/64: acml/gcc/mp/64/5.3.1
+
+  acml/gcc/mp/fma4: acml/gcc/mp/fma4/5.3.1
+
+  acml/open64-int64/64: acml/open64-int64/64/5.3.1
+
+  acml/open64-int64/fma4: acml/open64-int64/fma4/5.3.1
+
+  acml/open64-int64/mp/64: acml/open64-int64/mp/64/5.3.1
+
+  acml/open64-int64/mp/fma4: acml/open64-int64/mp/fma4/5.3.1
+
+  acml/open64/64: acml/open64/64/5.3.1
+
+  acml/open64/fma4: acml/open64/fma4/5.3.1
+
+  acml/open64/mp/64: acml/open64/mp/64/5.3.1
+
+  acml/open64/mp/fma4: acml/open64/mp/fma4/5.3.1
+
+  albacore: albacore/0.8.4-cp35, albacore/0.9.1-cp35, albacore/1.0.1-cp35, albacore/1.0.2-cp35, albacore/1.0.3-cp35, ...
+
+  awscli: awscli/latest
+
+  blacs/openmpi/gcc/64: blacs/openmpi/gcc/64/1.1patch03
+
+  blacs/openmpi/open64/64: blacs/openmpi/open64/64/1.1patch03
+
+  blas/gcc/64: blas/gcc/64/3.7.0
+
+  blas/open64/64: blas/open64/64/3.7.0
+
+  bonnie++: bonnie++/1.97.1
+
+  bracken: bracken/2.2
+
+  bwa: bwa/0.7.15
+
+  canu: canu/1.4, canu/1.5, canu/1.7
+
+  cluster-tools: cluster-tools/8.0
+
+  cm-jupyter: cm-jupyter/4.3.0
+
+  cm-jupyterhub: cm-jupyterhub/0.8.1
+
+  cm-npm-configurable-http-proxy: cm-npm-configurable-http-proxy/1.0.0
+
+  cmake: cmake/3.9.6
+
+  cmd: cmd
+
+  containerd: containerd/0.2.5
+
+  default-environment: default-environment
+
+  docker/engine: docker/engine/1.12.6
+
+  dot: dot
+
+  fftw2/openmpi/gcc/64/double: fftw2/openmpi/gcc/64/double/2.1.5
+
+  fftw2/openmpi/gcc/64/float: fftw2/openmpi/gcc/64/float/2.1.5
+
+  fftw2/openmpi/open64/64/double: fftw2/openmpi/open64/64/double/2.1.5
+
+  fftw2/openmpi/open64/64/float: fftw2/openmpi/open64/64/float/2.1.5
+
+  fftw3/openmpi/gcc/64: fftw3/openmpi/gcc/64/3.3.6
+
+  fftw3/openmpi/open64/64: fftw3/openmpi/open64/64/3.3.6
+
+  filtlong: filtlong/0.2.0
+
+  flannel: flannel/0.7.0
+
+  flappie: flappie/0.1.0-4bd1e98, flappie/1.0.0-0048dfd
+
+  flye: flye/2.4-cp27
+
+  freeipmi: freeipmi/1.5.5
+
+  freesurfer: freesurfer/5.3
+
+  gcc: gcc/4.9.2, gcc/6.3.0
+
+  gdb: gdb/7.12.1
+
+  globalarrays/openmpi/gcc/64: globalarrays/openmpi/gcc/64/5.5
+
+  globalarrays/openmpi/open64/64: globalarrays/openmpi/open64/64/5.5
+
+  gnuplot: gnuplot/4.6.7, gnuplot/5.0.6
+
+  guppy: guppy/2.1.3, guppy/2.3.5
+
+  hdf5: hdf5/1.10.0
+
+  hdf5_18: hdf5_18/1.8.18
+
+  hpl: hpl/2.2
+
+  hwloc: hwloc/1.11.6
+
+  intel-tbb-oss/ia32: intel-tbb-oss/ia32/2018_20180618oss
+
+  intel-tbb-oss/intel64: intel-tbb-oss/intel64/2018_20180618oss
+
+  iozone: iozone/3_465
+
+  ipmitool: ipmitool/1.8.18
+
+  jdk: jdk/1.8.0_131, jdk/11.0.1
+
+  jre: jre/1.8.0_121
+
+  jupyter/R: jupyter/R/3.6.1
+
+  kallisto: kallisto/0.44.0
+
+  keras: keras/2.0.6-cp36
+
+  kraken2: kraken2/2.0.7-beta
+
+  lapack/gcc/64: lapack/gcc/64/3.7.0
+
+  lapack/open64/64: lapack/open64/64/3.7.0
+
+  lua: lua/5.3.4
+
+  machinelearning: machinelearning/1.0-cp36
+
+  matlab: matlab/R2017a
+
+  medaka: medaka/0.5.2-cp36
+
+  miniasm/master: miniasm/master/2018-03-01
+
+  minimap2/2.12: minimap2/2.12
+
+  minimap2/2.16: minimap2/2.16
+
+  minimap2/2.9: minimap2/2.9
+
+  minimap2/master: minimap2/master/2017-09-20
+
+  module-git: module-git
+
+  module-info: module-info
+
+  mpich/ge/gcc/64: mpich/ge/gcc/64/3.2
+
+  mpich/ge/open64/64: mpich/ge/open64/64/3.2
+
+  mpiexec: mpiexec/0.84_432
+
+  mummer: mummer/4.0.0beta, mummer/4.0.0beta2
+
+  mvapich2/gcc/64: mvapich2/gcc/64/2.2rc1
+
+  mvapich2/open64/64: mvapich2/open64/64/2.2rc1
+
+  nanofilt: nanofilt/2.2.0
+
+  nanoplot: nanoplot/1.14.1
+
+  nanopolish/master: nanopolish/master/2017-10-06, nanopolish/master/2017-12-11, nanopolish/master/2019-02-08
+
+  nanopore-scripts/master: nanopore-scripts/master/2017-04-20
+
+  netcdf/gcc/64: netcdf/gcc/64/4.4.0
+
+  netcdf/open64/64: netcdf/open64/64/4.4.0
+
+  netperf: netperf/2.7.0
+
+  null: null
+
+  open64: open64/4.5.2.1
+
+  openblas: openblas/dynamic/0.2.18
+
+  openldap: openldap
+
+  openmpi/gcc/64: openmpi/gcc/64/1.10.3
+
+  openmpi/open64/64: openmpi/open64/64/1.10.3
+
+  pbh5tools/master: pbh5tools/master/2017-10-06
+
+  pbspro: pbspro/14.1.0
+
+  pilon: pilon/1.22
+
+  porechop: porechop/0.2.4
+
+  poretools/master: poretools/master/2017-04-07
+
+  python: python/2.7.13, python/3.5.3, python/3.6.1, python/3.7.4
+
+  quast: quast/4.5
+
+  racon: racon/1.2.0, racon/1.3.1
+
+  ragoo/master: ragoo/master/2019-01-14
+
+  runc: runc/1.0.0
+
+  samtools: samtools/1.4
+
+  scalapack/openmpi/gcc/64: scalapack/openmpi/gcc/64/2.0.2
+
+  scikit-learn: scikit-learn/0.18.2-cp36
+
+  scrappie/master: scrappie/master/2017-04-07
+
+  sge: sge/2011.11p1
+
+  shared: shared
+
+  singularity: singularity/2.6.1
+
+  slurm: slurm/17.02.11
+
+  spark: spark/2.4.0
+
+  tensorflow: tensorflow/1.2.1-cp36
+
+  tombo: tombo/1.5-cp36
+
+  torque: torque/6.1.1
+
+  wtdbg: wtdbg/2.1, wtdbg/2.2, wtdbg/2.3
+
+  wub/master: wub/master/2017-04-20
+
