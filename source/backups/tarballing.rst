@@ -16,8 +16,8 @@ Tarballing/Compressing Files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To make a tarball
 
-.. code-block::
-   
+.. code-block:: bash
+
    # tarball
    $ tar -cvf <.tar file> /path/to/folder/to/tarball/
    # e.g. $ tar -cvf example.tar videos/
@@ -28,16 +28,15 @@ To make a tarball
 
 Adding files to existing archive (only ``.tar`` files)
 
-.. code-block::
-   
+.. code-block:: bash
    $ tar -rvf <.tar file> /path/to/folder/or/file/to/add/
 
 Extracting files
 ~~~~~~~~~~~~~~~~
 To extract a tarball
 
-.. code-block::
-   
+.. code-block:: bash
+
    $ tar -xvf <.tar file> -C </directory/to/extract/to/>
    
    # or to extract in current directory
@@ -45,8 +44,8 @@ To extract a tarball
 
 To extract a gunzipped tarball
 
-.. code-block::
-   
+.. code-block:: bash
+
    $ tar -xvzf <.tar.gz file> -C </directory/to/extract/to/>
    # e.g. $ tar -xvzf 
 
@@ -55,14 +54,14 @@ To extract a gunzipped tarball
 
 Extract particular file/folder from tarball/gunzipped tarball
 
-.. code-block::
+.. code-block:: bash
 
    $ tar --extract <.tar/.tar.gz file> <path/to/file>
    # e.g. $ tar --extract example.tar example.txt
 
 Extract multiple files
 
-.. code-block::
+.. code-block:: bash
    
    # tarball
    $ tar -xvf <.tar file> "<path/to/file1>" "<path/to/file2>" 
@@ -72,7 +71,7 @@ Extract multiple files
 
 Extract files by wildcard
 
-.. code-block::
+.. code-block:: bash
 
    # tarball
    $ tar -xvf <.tar file> --wildcards "*.mp4"
@@ -84,6 +83,6 @@ Viewing Contents of Archive
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To view contents of a tarball/gunzipped tarball
 
-.. code-block::
+.. code-block:: bash
 
    $ tar -tvf <.tar/.tar.gz file>
