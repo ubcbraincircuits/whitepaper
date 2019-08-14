@@ -27,13 +27,31 @@ Contents
 ========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Data Management and Data Sharing
    
    ethics_legal/index
    data_storage/index
    data_sharing/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Workflow Tools 
+   
    workflows/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: HPC, Tutorials and Examples
+
    alder_compute_canada/index
+   backups/index
+   jupyterhub/index
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Appendices
+
    upcoming/index.rst
    
 Indices and tables

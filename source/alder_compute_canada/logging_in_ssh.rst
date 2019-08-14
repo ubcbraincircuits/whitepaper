@@ -52,18 +52,18 @@ Windows
 
 A. Using Git Bash
 ~~~~~~~~~~~~~~~~~
-Download and install `Git Bash <https://git-scm.com/download/win>`_. Once you have it set up, you can use the same process as in the previous section.
+Download and install `Git Bash <https://git-scm.com/download/win>`_ (Highly Recommended). Once you have it set up, you can use the same process as in the previous section.
 
 B. Using PuTTY
 ~~~~~~~~~~~~~~
 Download and install the latest version of PuTTY from `here <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_
 
 Open up PuTTY.
-Under the ‘Session’ section, set the Host Name to the appropriate server e.g. ``alder.arc.ubc.ca``, ``cedar.computecanada.ca``, and so on.
+Under the **Session** section, set the **Host Name** to the appropriate server e.g. ``alder.arc.ubc.ca``, ``cedar.computecanada.ca``, and so on.
 
 .. image:: 1connect.PNG
 
-Click on Open. This should open up a terminal.
+Click on **Open**. This should open up a terminal.
 Input your login credentials. 
 If the login is successful, you should see something like this:
 

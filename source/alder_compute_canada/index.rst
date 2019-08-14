@@ -1,3 +1,7 @@
+========================
+HPC Working Environments
+========================
+
 Instructions and recommendations on setting up your working environments and workflows on High Performance Computing (HPC) systems such as:
 
 * Compute Canada and Westgrid clusters
@@ -12,5 +16,8 @@ This documentation was written to accommodate users on a variety of operating sy
 
    signing_up
    logging_in_ssh
-
+   setup_ssh_key
+   loading_software
+   python_environment
+   run_jupyter_remotely
    

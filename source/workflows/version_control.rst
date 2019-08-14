@@ -2,22 +2,17 @@
 Version Control
 ===============
 
-.. toctree::	
-	:caption: Table of Contents
-	:maxdepth: 5
-	
-	version_control
+Overview
+========
 	
 Version control is a system that record changes made to one or more files. 
 In this section I will discuss distributed version control systems e.g. Git+GitHub
 
-.. Note::
-   We have set up a `GitHub Team <https://github.com/ubcbraincircuits>`_
-   and highly recommend that all labs keep their projects in this 
-   central repository. This means users must learn Git. 
-  
-   Refer to the ``Setup Instructions`` section below to get set up on the cluster GitHub
-   
+We are pleased to announce that we have set up a GitHub team account for the cluster [github.com/ubcbraincircuits], under which members can set up their repositories.
+
+.. note::
+   Go to the Onboarding section below for instructions on becoming a member
+
    **Resources**
    
    * `Learn Git and GitHub <https://try.github.io/>`_
@@ -85,7 +80,7 @@ If this is absolutely necessary, there is the option of setting up your own serv
 This is possible through:
 
 1. Enterprise offerings from these platforms that may not benefit from academic pricing
-2. Setting using an open-source offfering at the expense of losing the rich interfaces of the hosting platforms.
+2. Setting using an open-source offfering at the expense of losing the rich interfaces of the hosting platforms. One such example is `gogs.io`_.
 
 Using Version Control?
 ======================
@@ -125,8 +120,8 @@ PIs and Researchers can create teams and control who can edit certain repositori
 There are also spaces for team discussions
 
 
-Setup Instructions
-==================
+Onboarding
+==========
 
 1) Get a GitHub account
 -----------------------
@@ -135,18 +130,20 @@ Skip this step if you have an existing account.
 
 2) Become a Member of the Brain Circuits Repository
 ---------------------------------------------------
-Contact Timothy H Murphy at ``thmurphy@mail.ubc.ca``. Include your GitHub username or email address 
-and you will be sent an invitation to become a member via email.
+Contact Jeffrey LeDue `jledue@mail.ubc.ca`_ and provide your GitHub account name or email to be added as a member. You will receive an invitation via the email account you used to register for GitHub.
 
 3) Move Existing Repositories to the Central Repository
 -------------------------------------------------------
 If you have exisitng respositories that you desire to move to ``github.com/ubcbraincircuits``, 
 the transfer procedure can be found `here <https://help.github.com/en/articles/transferring-a-repository>`_. 
-Set the ``New Owner's Github username or organisation name`` field to ``UBCBrainCircuits``, as shown below.
+When prompted, set the ``New Owner's Github username or organisation name`` field to ``UBCBrainCircuits``.
 
+..note::
 
-.. image:: ../Images/transfer_repository.png
-   :height: 400px
+   The main aims of doing this are:
+   * Reducing fragmentation by maintaining a centralised code repository under the administration of PIs for efficient management. This also enhances discoverability and the ability to collaborate across labs.
+   * Enabling labs to access repositories after members move on
+   * Giving cluster members free access to GitHub Team and its benefits
 
 4) Create or Join a Group
 -------------------------
