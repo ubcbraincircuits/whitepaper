@@ -1,6 +1,6 @@
-===============================================
-Transferring and Backing Up on Remote Computers
-===============================================
+============================================
+Data Trnasfer and Backup on Remote Computers
+============================================
 
 This section covers the use of tools like ``scp``, ``Rsync``, ``sftp`` and Globus to make transfers and backups. While the examples place an emphasis on Compute Canada, they can be generalised to apply to any remote computer.
 
@@ -318,23 +318,23 @@ Option 1: Globus GUI
 
 1. `Log in <https://globus.computecanada.ca/file-manager>`_
 
-.. image:: GlobusCC/1.png
+.. image:: GlobusCC/1.PNG
 
 2. Click on ``Endpoints``
 3. Click on ``Add an Endpoint`` then ``Globus Connect Personal``
 4. Enter a name for your endpoint, e.g. ``My_workstation`` in this case. Check the ``This will be a high assurance endpoint`` box if dealing with highly sensitve data
 
-.. image:: GlobusCC/4.png
+.. image:: GlobusCC/4.PNG
 
 5. Generate the Setup Key and copy it to your clipboard.
 6. Using the links at the bottom of the page, install the Globus Connect Personal Client on your machine and follow the on screen instructions
 7. Run the client and paste your Setup Key, then click ``OK``
 
-.. image:: GlobusCC/4.png
+.. image:: GlobusCC/4.PNG
 
 8. Add location(s) of data you want globus to be able to access by clicking on `+`. 
 
-.. image:: GlobusCC/8.png
+.. image:: GlobusCC/8.PNG
 
 .. tip:: 
     * Ticking `Shareable` will allow outbound transfers
@@ -344,22 +344,22 @@ Option 1: Globus GUI
 10. Go back to your browser and click on the ``File Manager`` Tab
 11. Search for the Compute Canada server you want ot upoad the files to. In this example, we are using Graham.
 
-.. image:: GlobusCC/11.png
+.. image:: GlobusCC/11.PNG
 
 12. Log in with you compute canada credentials and click on ``Authenticate``
 13. Your Home directory should now be displayed. Navigate to the folder you want to keep the data in. In this example I will use the ``globus_transfers`` directory in my home directory.
 14. Click on ``Transfer or Sync to...`` on the right side menu
 
-.. image:: GlobusCC/14.png
+.. image:: GlobusCC/14.PNG
 
 15. Click on ``Transfer or sync to...`` box. Click on ``Your Collections`` then on your desired endpoint's name.
 16. Navigate the directory structure on either endpoint and select the folder(s) or file(s) you want to transfer/sync to the other endpoint. Clicking on Transfer and Sync Options below, you can select a multitude of options for managing the content on the destination endpoint. Click on ``Start`` when done.
 
-.. image:: GlobusCC/16.png
+.. image:: GlobusCC/16.PNG
 
 17. You should see a message like: ``Transfer request submitted successfully. Task id: <TASK_ID>`` where <TASK_ID> is a system generated hash for your task.
 
-.. image:: GlobusCC/17.png
+.. image:: GlobusCC/17.PNG
 
 18. The client on our endpoint will handle your transfer and send
 you an email when it is done. You can view the status of the transfer in the `Activity` tab
