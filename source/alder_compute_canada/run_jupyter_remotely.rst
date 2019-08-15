@@ -66,11 +66,11 @@ Enter the Source port at which you want to launch the jupyter server on Alder, a
 Destination port which you would like to use to access the notebook on your machine in the 
 format localhost:<port>. Click on 'Add', then 'Open'.
 
-.. image:: 1putty-tunnel.png
+.. image:: 1putty-tunnel.PNG
 
 Input your login credentials. If the login is successful, you should see something like this:
 
-.. image:: 3login.png
+.. image:: 3login.PNG
 
 Next, request the resources you would like to use for your notebook session, for instance, th following 
 would give you 4 CPU cores and 8000 MB of RAM.
@@ -102,7 +102,7 @@ If you prefer to work in jupyter lab instead, use this instead
 
    $ jupyter lab --no-browser --port=8887
 
-.. image:: 4notebook-server.png
+.. image:: 4notebook-server.PNG
 
 Copy the token. 
 On your local machine, open a browser and go to the localhost port specified in the 
@@ -110,4 +110,4 @@ Destination earlier, e.g. ‘localhost:8887’. You should see a page that looks
 Paste the token you had copied in the previous step into the box and click on ‘Log in’. 
 You should then see a typical notebook/lab interface open up.
 
-.. image:: 5logintonotebook.png
+.. image:: 5logintonotebook.PNG

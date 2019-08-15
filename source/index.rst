@@ -47,6 +47,7 @@ Contents
    alder_compute_canada/index
    backups/index
    jupyterhub/index
+   encryption/index
    
 .. toctree::
    :maxdepth: 1

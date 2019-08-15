@@ -15,3 +15,4 @@ This section provides:
    :caption: Documentation and tutorials on file transfer and backup tools
 
    transferring_data
+   git_annex
