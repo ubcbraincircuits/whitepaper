@@ -31,6 +31,7 @@ Contents
    :caption: Data Management and Data Sharing
    
    ethics_legal/index
+   dmp/index
    data_storage/index
    data_sharing/index
 

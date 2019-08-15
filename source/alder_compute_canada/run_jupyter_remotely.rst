@@ -59,7 +59,7 @@ B. Using PuTTY
 Open up PuTTY.
 Under the ‘Session’ section, set the Host Name to the address of the remote computer, e.g. ``alder.arc.ubc.ca`` in this case.
 
-.. image:: 1connect.png
+.. image:: 1connect.PNG
 
 Next, expand the SSH tab and click on Tunnel. 
 Enter the Source port at which you want to launch the jupyter server on Alder, and the 

@@ -12,10 +12,10 @@ Overview:
 .. toctree::	
 	:maxdepth: 1
 
-	compute_canada
-  open_science_framework
   dataverse 
   frdr 
+	compute_canada
+  open_science_framework
   bespoke
   conp
 

@@ -130,7 +130,7 @@ Skip this step if you have an existing account.
 
 2) Become a Member of the Brain Circuits Repository
 ---------------------------------------------------
-Contact Jeffrey LeDue `jledue@mail.ubc.ca`_ and provide your GitHub account name or email to be added as a member. You will receive an invitation via the email account you used to register for GitHub.
+Contact `Jeffrey LeDue <mailto:jledue@mail.ubc.ca>`_ and provide your GitHub account name or email to be added as a member. You will receive an invitation via the email account you used to register for GitHub.
 
 3) Move Existing Repositories to the Central Repository
 -------------------------------------------------------
@@ -140,10 +140,11 @@ When prompted, set the ``New Owner's Github username or organisation name`` fiel
 
 ..note::
 
-   The main aims of doing this are:
-   * Reducing fragmentation by maintaining a centralised code repository under the administration of PIs for efficient management. This also enhances discoverability and the ability to collaborate across labs.
-   * Enabling labs to access repositories after members move on
-   * Giving cluster members free access to GitHub Team and its benefits
+  The main aims of doing this are:
+
+  * Reducing fragmentation by maintaining a centralised code repository under the administration of PIs for efficient management. This also enhances discoverability and the ability to collaborate across labs.
+  * Enabling labs to access repositories after members move on
+  * Giving cluster members free access to GitHub Team and its benefits
 
 4) Create or Join a Group
 -------------------------

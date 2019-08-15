@@ -89,12 +89,14 @@ From the `Compute Canada Documentation <https://docs.computecanada.ca/wiki/Trans
   
     SFTP (Secure File Transfer Protocol) uses the SSH protocol to transfer files between machines which encrypts data being transferred.
 
+Unlike ``SCP``, ``SFTP`` omes with an interactive prompt.
+
 Dropping into the SFTP Prompt
 -----------------------------
 
 .. code-block:: bash
 
-   $ sftp user@remote_hostnamee_or_ip_address
+   $ sftp user@remote_hostname_or_ip_address
 
 For instance, 
 
