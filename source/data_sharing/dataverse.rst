@@ -5,10 +5,6 @@ provided by Scholars Portal on behalf of the `Ontario Council of University
 Libraries (OCUL) <https://ocul.on.ca/>`_ and other participating institutions. Dataverse can be used by 
 affiliated researchers to deposit, share, and archive research data.
 
-.. todo::
-
-   citation: https://learn.scholarsportal.info/all-guides/dataverse/
-
 We are pleased to announced that we have set up 
 a `dataverse for the cluster <https://dataverse.scholarsportal.info/dataverse/UBC_BrainCircuits>`_, 
 under which we can set up dataverses for individual labs that are administered by PIs. 
