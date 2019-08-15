@@ -14,7 +14,7 @@ Overview:
 
   dataverse 
   frdr 
-	compute_canada
+	sharing_compute_canada
   open_science_framework
   bespoke
   conp
