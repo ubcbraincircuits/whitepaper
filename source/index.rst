@@ -54,7 +54,7 @@ Contents
    :maxdepth: 1
    :caption: Appendices
 
-   upcoming/index.rst
+   appendices/upcoming.rst
    
 Indices and tables
 ==================
