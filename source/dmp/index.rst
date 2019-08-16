@@ -16,8 +16,9 @@ Granting agencies such as the Canadian Institutes of Health Research (CIHR), the
 * Fostering open science practices to enhance research productivity and quality
 
 Important documents that should be read by all researchers include:
-* The Tri-Agency Research Data Management Policy science.gc.ca/eic/site/063.nsf/eng/h_547652FB.html 
-* Canada’s Commitment to Open Science canada.ca/en/treasury-board-secretariat/services/access-information-privacy/canada-commitment-open-science.html
+
+* `The Tri-Agency Research Data Management Policy <science.gc.ca/eic/site/063.nsf/eng/h_547652FB.html>`_
+* `Canada’s Commitment to Open Science <canada.ca/en/treasury-board-secretariat/services/access-information-privacy/canada-commitment-open-science.html>`_
 
 Developing a DMP
 ================
@@ -42,6 +43,7 @@ Resources on research data metadata and metadata standards:
 * UBC Library - `Document and Describe <researchdata.library.ubc.ca/plan/document-describe-your-data>`_
 * University of Western Australia -  `Research Data Management Toolkit: Metadata Standards <guides.library.uwa.edu.au/c.php?g=325196&p=2178564>`_
 * Cornell University - `Research Data Management Service Group: Writing Metadata <data.research.cornell.edu/content/writing-metadata>`_
+* FairSharing  - `A curated, informative and educational resource on data and metadata standards, inter-related to databases and data policies <fairsharing.org>`_
 
 File Naming Conventions
 -----------------------
@@ -49,7 +51,7 @@ File naming conventions should carefully consider how they are interpreted by di
 
 Resources on file naming conventions:
 
-* UBC Library - `Organize <researchdata.library.ubc.ca/plan/organize-your-data`_
+* UBC Library - `Organize <researchdata.library.ubc.ca/plan/organize-your-data>`_
 * The University of Edinburgh - `Naming Conventions <ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions>`_
 * Stanford Libraries - `Best Practices for File Naming <library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming>`_
 
@@ -59,5 +61,5 @@ Best Practices from Exemplar Labs
 * The 3-2-1 Backup rule: At the very least, research data should have 3 copies, with 2 copies on different media and 1 copy off-site. This includes having 2 UBC copies.
 * As part of your DMP, set up infrastructure, services, and training to ensure that at worst, only one day of work can be lost.
 * All data is accompanied by a metadata file. Secondary data is accompanied by a wiki article describing how the data was processed and analysed.
-* Automated metadata entry for experimental data. `Example 1 <doi.org/10.5281/zenodo.3268838>>`_, `Example 2 <github.com/cortex-lab/alyx>`_ 
+* Automated metadata entry for experimental data. `Example 1 <doi.org/10.5281/zenodo.3268838>`_, `Example 2 <github.com/cortex-lab/alyx>`_ 
 * Backup snapshots of all workstations and the central data storage servers. 
