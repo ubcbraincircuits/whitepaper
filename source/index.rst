@@ -57,6 +57,7 @@ Contents
 
    upcoming/index
    term_definitions
+   abbreviations
 
    
 Indices and tables
