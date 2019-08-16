@@ -7,6 +7,7 @@ This section provides:
    :maxdepth: 1
    :caption: Resources to best practices in backup and archival
    
+   snapshots
    tarballing
 
 

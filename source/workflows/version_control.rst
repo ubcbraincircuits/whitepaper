@@ -130,7 +130,7 @@ Skip this step if you have an existing account.
 
 2) Become a Member of the Brain Circuits Repository
 ---------------------------------------------------
-Contact `Jeffrey LeDue <mailto:jledue@mail.ubc.ca>`_ and provide your GitHub account name or email to be added as a member. You will receive an invitation via the email account you used to register for GitHub.
+Contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ and provide your GitHub account name or email to be added as a member. You will receive an invitation via the email account you used to register for GitHub.
 
 3) Move Existing Repositories to the Central Repository
 -------------------------------------------------------

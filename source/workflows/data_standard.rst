@@ -2,11 +2,18 @@
 Data Standardization
 ====================
 
-.. toctree::	
-	:caption: Table of Contents
-	:maxdepth: 3
-	
-	data_standard
+A critical but often overlooked aspect of data sharing is data standardization. Currently, there is likely variability in data organization even between neuroscientists from the same lab. However, data is shareable only if it is understandable and interoperable, hence feasible data pooling requires universal standards. Data must be structured and organized in a way that is intuitive and readily usable by researchers within the lab and in the greater neuroscience community. When choosing a system or format, it is best to focus on the following:
+
+* Simplicity: Does the format reflect the contents of my files, my lab practices?
+* Accessibility: Is it widely used and recognized by researchers in my field?
+* Adoptability: Can members of my lab learn it quickly? Can data be handed off easily?
+
+Minimum Information about a Neuroscience Investigation (MINI)
+=============================================================
+
+Best use: electrophysiology data 
+
+Minimum Information about a Neuroscience Investigation (MINI) is a minimum information standard for reporting electrophysiological studies. MINI is registered with Minimum Information for Biological and Biomedical Investigations (MIBBI), a collection of guidelines for reporting bioscience data organized by method of collection. MINI is a metadata standard; it specifies recommended metadata fields pertaining to an electrophysiology dataset to ensure it is accurately interpreted, analyzed, and corroborated by the neuroscience community. The MINI reporting requirements has seven subdivisions: General features, study subject, task, stimulus, behavioral event, recording, and time series data. The `original paper <precedings.nature.com/documents/1720/version/2>`_ can be consulted for definitions. 
 
 Brain Imaging Data Structure (BIDS)
 ===================================

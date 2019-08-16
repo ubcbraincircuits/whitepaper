@@ -22,7 +22,7 @@ Benefits and features:
 
 .. note:: 
    To use the JupyterHub, you must 1) be affiliated with the cluster and 2) have an account on Alder. To obtain an account on Alder, your PI must sponsor you and send an account request to support@arc.ubc.ca 
-   To install packages, contact `Jeffrey LeDue <mailto:jledue@mail.ubc.ca>`_ with your requirements
+   To install packages, contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ with your requirements
 
 Resource Allocation
 -------------------

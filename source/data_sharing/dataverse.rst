@@ -13,7 +13,7 @@ We are pleased to announced that we have set up
 a `dataverse for the cluster <https://dataverse.scholarsportal.info/dataverse/UBC_BrainCircuits>`_, 
 under which we can set up dataverses for individual labs that are administered by PIs. 
 
-Contact Jeffrey Ledue or Glaynel Alejo to set up a dataverse for your lab.
+Contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ to set up a dataverse for your lab.
 
 
 Storage and Backup
