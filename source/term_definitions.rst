@@ -1,7 +1,7 @@
 Terms and Definitions 
 ======================
 
-.. image:: term_definitions.PNG
+.. image:: terms_definitions.PNG
 
 (*) As defined in the University of British Columbia Generic Template within the Portage DMP Assistant
 
