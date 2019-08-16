@@ -55,8 +55,8 @@ Contents
    :maxdepth: 1
    :caption: Appendices
 
-   upcoming/index.rst
-   terms_definitions
+   upcoming/index
+   term_definitions
 
    
 Indices and tables
