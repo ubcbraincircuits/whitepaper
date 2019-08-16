@@ -1,4 +1,4 @@
-Abbrevaiations
-==============
+Abbreviations
+=============
 
 .. image:: abbreviations.PNG
