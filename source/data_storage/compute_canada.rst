@@ -1,9 +1,9 @@
 ===================
 Compute Canada (CC)
 ===================
-Compute Canada is a provider of Advanced Research Computing infrastructure, including systems, storage and software. Their regional partner is `Westgrid <westgrid.ca>`_, and they provide additional support.
+Compute Canada is a provider of Advanced Research Computing infrastructure, including systems, storage and software. Their regional partner is `Westgrid <http://westgrid.ca>`_, and they provide additional support.
 
-Compute Canada provides heterogeneous, general purpose clusters and Clouds that allow researchers to access resources such as CPU and GPU time, `software <docs.computecanada.ca/wiki/Available_software>`_, as well as different storage systems. A list of the available national systems is found `here <docs.computecanada.ca/wiki/National_systems>`_.
+Compute Canada provides heterogeneous, general purpose clusters and Clouds that allow researchers to access resources such as CPU and GPU time, `software <http://docs.computecanada.ca/wiki/Available_software>`_, as well as different storage systems. A list of the available national systems is found `here <docs.computecanada.ca/wiki/National_systems>`_.
 
 Cost
 ====
@@ -11,7 +11,7 @@ Compute Canada and Westgrid resources can be used at no financial cost to resear
 
 Signing up
 ==========
-You can apply for a Compute Canada account following this `documentation <computecanada.ca/research-portal/account-management/apply-for-an-account>`_:
+You can apply for a Compute Canada account following this `documentation <http://computecanada.ca/research-portal/account-management/apply-for-an-account>`_:
 
 * If you are a PI, please create an account as other lab members must be sponsored under your account.
 * If you are a lab member, contact your PI for their Compute Canada Role Identifier (CCRI) so that you can complete your application. Your PI must then confirm your role for your account to be created.
@@ -43,7 +43,7 @@ Default Resource Allocations (def)
 
 Rapid Access Service (RAS)
 --------------------------
-From the `CC website <computecanada.ca/research-portal/accessing-resources/rapid-access-service>`_::
+From the `CC website <http://computecanada.ca/research-portal/accessing-resources/rapid-access-service>`_::
 
     Rapid Access Service (RAS) allows Principal Investigators (PIs) to request a modest amount of storage and cloud resources without having to apply to the Resource Allocation Competitions (RAC). 
 

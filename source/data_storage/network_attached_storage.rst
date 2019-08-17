@@ -1,7 +1,7 @@
 ==============================
 Network Attached Storage (NAS)
 ==============================
-A NAS is a storage server that allows clients to access a centralised filesystem over a network.  Redundant Array of Inexpensive Disks (RAID) can be incorporated into the setup to prevent data loss due to hard drive failure. Read more about RAID configurations `here <en.wikipedia.org/wiki/RAID>`_.
+A NAS is a storage server that allows clients to access a centralised filesystem over a network.  Redundant Array of Inexpensive Disks (RAID) can be incorporated into the setup to prevent data loss due to hard drive failure. Read more about RAID configurations `here http://en.wikipedia.org/wiki/RAID>`_.
 
 NAS is a great solution for centralising and sharing large volumes of data, but plans must be made for making backups of the data, and for archival towards the end of its research life cycle. 
 

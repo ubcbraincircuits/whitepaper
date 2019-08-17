@@ -20,12 +20,12 @@ The bare minimum criterion for off-site storage is that the data should be store
 
 Amazon S3 Glacier
 =================
-Pricing information is available `here <aws.amazon.com/glacier/pricing>`_. Usage is billed monthly. Transactions billed include: storage, retrieval requests, upload requests [LISTVAULTS, GETJOBOUTUT, DELETE and all other requests are free], data retrieval and outbound internet data transfers. All data transfers into Glacier are free. 
+Pricing information is available `here <http://aws.amazon.com/glacier/pricing>`_. Usage is billed monthly. Transactions billed include: storage, retrieval requests, upload requests [LISTVAULTS, GETJOBOUTUT, DELETE and all other requests are free], data retrieval and outbound internet data transfers. All data transfers into Glacier are free. 
 Glacier has the highest retrieval costs compared to other storage options. It is therefore probably not ideal for an emergency recovery situation where massive amounts of data must be retrieved.
 
 Google Cloud Platform
 =====================
-Pricing information is available `here <cloud.google.com/storage/pricing>`_. Usage is billed monthly. Transactions billed include: storage, data retrieval, data operations and requests and outbound internet data transfers. All data transfers into GCP are free.
+Pricing information is available `here <http://cloud.google.com/storage/pricing>`_. Usage is billed monthly. Transactions billed include: storage, data retrieval, data operations and requests and outbound internet data transfers. All data transfers into GCP are free.
 Storage class definitions:
 
 * Regional storage - store data more cheaply, at the expense of data being stored at one location instead of having geographic redundancy.
@@ -36,7 +36,7 @@ The minimum storage durations for Regional and Coldline storage are 30 and 90 da
 
 Microsoft Azure
 ===============
-Pricing information is available `here <azure.microsoft.com/en-ca/pricing/details/storage/blobs/>`_. Usage is billed monthly. Billed transactions include storage, data retrieval, data operations and requests and outbound internet data transfers. All transfers into Azure are free.
+Pricing information is available `here <http://azure.microsoft.com/en-ca/pricing/details/storage/blobs/>`_. Usage is billed monthly. Billed transactions include storage, data retrieval, data operations and requests and outbound internet data transfers. All transfers into Azure are free.
 Definitions of storage classes (`reference <http://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-storage-tiers>`_):
 
 * Hot - Optimized for storing data that is accessed frequently.

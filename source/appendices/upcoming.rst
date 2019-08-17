@@ -4,11 +4,11 @@ Coming Soon
 
 NextCloud - Advanced Research Computing (ARC)
 =============================================
-From their `website <arc.ubc.ca>`_:
+From their `website <http://arc.ubc.ca>`_:
 
     We are a free service supporting the high-performance computing and data management needs of UBC researchers. Our experienced, dedicated team provides consultation, expertise, and access to cyberinfrastructure.
 
-ARC has indicated that they plan to set up a `NextCloud <nextcloud.com>`_ server service. This will be free to use for UBC researchers and will provide cloud storage, with an interface similar to offerings like Dropbox. You can get a free demo of the interface `here <try.nextcloud.com>`_.
+ARC has indicated that they plan to set up a `NextCloud <http://nextcloud.com>`_ server service. This will be free to use for UBC researchers and will provide cloud storage, with an interface similar to offerings like Dropbox. You can get a free demo of the interface `here <try.nextcloud.com>`_.
 There have not been further comments on storage quotas or a timeline, but we are confident that we will not see this being implemented in the near future.
 
 TeamShare for Research Data
@@ -21,12 +21,12 @@ While the Dataverse core development team at Harvard has added a file hierarchy 
 
 Open Science Framework  CWL Integration
 =======================================
-UBC will soon be an `OSF Institution <cos.io/our-products/osf-institutions>`_, which will enable CWL authentication into OSF. The university will also have its own unique OSF URL as well as a landing page to increase visibility of public projects associated with UBC.
+UBC will soon be an `OSF Institution <http://cos.io/our-products/osf-institutions>`_, which will enable CWL authentication into OSF. The university will also have its own unique OSF URL as well as a landing page to increase visibility of public projects associated with UBC.
 
 Cloud Innovation Center (CIC)
 =============================
-AWS has announced the launch of a CIC at UBC, which is slated to open in early 2020. Its theme is “Community Health and Wellbeing”. From their `website <cic.ubc.ca>`_:
+AWS has announced the launch of a CIC at UBC, which is slated to open in early 2020. Its theme is “Community Health and Wellbeing”. From their `website <http://cic.ubc.ca>`_:
 
     [CIC] provides UBC students, staff, and faculty access to cloud technology to advance projects, along with employing Amazon’s innovation processes.
     
-Read more about it `here <cic.ubc.ca>`_.
+Read more about it `here <http://cic.ubc.ca>`_.

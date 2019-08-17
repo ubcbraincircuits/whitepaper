@@ -4,12 +4,12 @@ Signing Up
 Compute Canada
 --------------
 Compute Canada is a provider of Advanced Research Computing infrastructure, including systems, storage and software. Their regional partner is WestGrid [see below], which provides additional resources.
-Compute Canada provides heterogeneous, general purpose clusters and Clouds that allow researchers to access resources such as CPU and GPU time, `software <docs.computecanada.ca/wiki/Available_software>`_, as well as different storage systems. A list of the available national systems is found `here <docs.computecanada.ca/wiki/National_systems>`_.
+Compute Canada provides heterogeneous, general purpose clusters and Clouds that allow researchers to access resources such as CPU and GPU time, `software <http://docs.computecanada.ca/wiki/Available_software>`_, as well as different storage systems. A list of the available national systems is found `here <docs.computecanada.ca/wiki/National_systems>`_.
 
 
 Procedure
 ~~~~~~~~~
-You can apply for a Compute Canada account following `this documentation <computecanada.ca/research-portal/account-management/apply-for-an-account>`_
+You can apply for a Compute Canada account following `this documentation <http://computecanada.ca/research-portal/account-management/apply-for-an-account>`_
 
 .. note:: 
    

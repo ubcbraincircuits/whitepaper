@@ -1,7 +1,7 @@
 ==========================================
 Canadian Open Neuroscience Platform (CONP)
 ==========================================
-From Brain Canada (`reference <braincanada.ca/funded_grants/canadian-open-neuroscience-platform>`_):: 
+From Brain Canada (`reference <http://braincanada.ca/funded_grants/canadian-open-neuroscience-platform>`_):: 
 
     The Canadian Open Neuroscience Platform (CONP) is a national platform for open sharing of neuroscience research data and brings together many of the country’s leading scientists in basic and clinical neuroscience to form an interactive network of collaborations in brain research, interdisciplinary partnership, clinical translation and Open Publishing. The goal of the platform is to improve the accessibility and re-usability of neuroscience data and, by increasing awareness of ongoing and past research efforts, it will reduce unnecessary duplication and overlap, resulting in a more efficient use of funding support. The CONP will also engage young investigators across the country in order to develop the next generation of “open” scientists.
 
@@ -11,11 +11,11 @@ The platform provides the following technologies:
 
 CONP Portal
 ===========
-The `portal <conp.ca/conp-portal/>`_ aggregates metadata from different sources to serve as a central repository for Canadian neuroscience, giving researchers the ability to discover and access past and ongoing research data to reduce unnecessary duplication and overlap and foster collaboration. While they do not host the data, they point to different data sources, allowing researchers the flexibility of choosing how and where their data is kept. They are also developing a method of tiered access to datasets for controlled sharing of data. 
+The `portal <http://conp.ca/conp-portal/>`_ aggregates metadata from different sources to serve as a central repository for Canadian neuroscience, giving researchers the ability to discover and access past and ongoing research data to reduce unnecessary duplication and overlap and foster collaboration. While they do not host the data, they point to different data sources, allowing researchers the flexibility of choosing how and where their data is kept. They are also developing a method of tiered access to datasets for controlled sharing of data. 
 
 NeuroLibre
 ==========
-`NeuroLibre <neurolibre.conp.ca/]>`_ is a curated repository of interactive publications. It uses `Binder <mybinder.org>`_ to allow researchers to publish Jupyter Books with interactive inline code, media and widgets. The dedicated Binder server is hosted on Compute Canada servers and enables users to execute, modify and manipulate code interactively.
+`NeuroLibre <http://neurolibre.conp.ca/]>`_ is a curated repository of interactive publications. It uses `Binder <http://mybinder.org>`_ to allow researchers to publish Jupyter Books with interactive inline code, media and widgets. The dedicated Binder server is hosted on Compute Canada servers and enables users to execute, modify and manipulate code interactively.
 
 This allows:
 
