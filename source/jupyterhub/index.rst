@@ -8,11 +8,7 @@ JupyterHub is a multi-user notebook server, allowing multiple users to access a 
 
 We have collaborated with the Pacific Institute for Mathematical Sciences to deploy an instance of a JupyterHub on Alder, the DMCBH compute cluster, which can be accessed `here <jupyter.alder.arc.ubc.ca>`_.
 
-Here is a description of our deployment:
-
-* 2 Nodes currently provisioned: 32 CPUs, 512 GB RAM
-* 500 TB SCRATCH space (not backed up!)
-* Software: Python and R
+Python 3.7.4 (`view list of packages <"https://github.com/ubcbraincircuits/whitepaper/blob/master/source/jupyterhub/python_packages.txt">`_) and R 3.6.1 (`view list of packages <"https://github.com/ubcbraincircuits/whitepaper/blob/master/source/jupyterhub/r_packages.txt">`_) kernels are currently installed, with multiple packages already available.
 
 Benefits and features:
 * Shared filesystem for quick collaboration
