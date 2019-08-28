@@ -144,6 +144,6 @@ If you are logged in as ``<user>`` on compute cluster ``<server>`` and want to s
    [<user>@<server>]$ setfacl -d -m g:<group_name>:rwx /home/<user>/projects/<def/rrg-PI>/<shared_data>
 
    # make any file inside the folder inherit the same ACL rules (for existing files)
-   [<user>@<server>]$ setfacl -d -m g:<group_name>:rwx /home/<user>/projects/<def/rrg-PI>/<shared_data>  
+   [<user>@<server>]$ setfacl -R -m g:<group_name>:rwx /home/<user>/projects/<def/rrg-PI>/<shared_data>  
  
 Members can be added to the a group through `CCDB <https://ccdb.computecanada.ca/services/>`_.
