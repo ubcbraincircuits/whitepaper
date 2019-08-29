@@ -1,19 +1,19 @@
 Open Science Framework
 ======================
-Open Science Framework (OSF) is a free and open source cloud-based data management 
-system developed by the Center for Open Science.
+`Open Science Framework (OSF) <https://osf.io/>`_ is a free and open source cloud-based data management 
+system developed by the `Center for Open Science <https://cos.io/>`_.
 
-The following introduction is based on the OSF Guides.
+The following introduction is based on the `OSF Guides <https://help.osf.io/hc/en-us>`_.
 
 Storage and Backup
 ------------------
-OSF uses Google Cloud for active and archival storage, and Amazon Glacier as a backup location. 
+OSF uses Google Cloud for active and archival storage and Amazon Glacier as a backup location. 
 
 Location
 --------
 The U.S. is OSF’s default storage location. A variety of storage locations are available,
 including Canada (Montreal). The global (default) storage location can be changed and will 
-be applied to new projects and components. Each project can also have its own storage location.
+be applied to new projects and components. Each project and component can also have its own storage location.
 
 Size limits
 -----------
@@ -22,7 +22,7 @@ There is no limit on storage per project and no cap on the amount of OSF Storage
 Direct upload of individual files to OSF Storage has a 5GB limit. However, third-party add-ons
 like Dropbox can be used to integrate different services already in use and connect them to OSF
 to allow access to existing data/materials. There is no limit for the amount of storage used
-across add-ons. See the Add-ons section for more information.
+across add-ons. 
 
 Add-ons
 -------
@@ -39,7 +39,6 @@ Storage add-ons
 If data needed for a project already exists in one of the services below, 
 it can be connected to OSF rather than transferring it. 
 This feature is also useful if a file exceeds the 5GB limit for upload. 
-Note that files connected to third-party storage add-ons are not stored or backed up on OSF.
 
 This page provides a `list of available storage add-ons in OSF 
 <https://help.osf.io/hc/en-us/sections/360003623833-Storage-add-ons>`_, which includes platforms like 
