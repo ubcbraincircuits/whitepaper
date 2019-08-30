@@ -2,10 +2,12 @@
 Data Sharing Platforms
 ======================
 
+.. image:: data_sharing_flowchart.png
+
+*Data sharing flowchart*
+
 Recommended Data Sharing Platforms
 ==================================
-
-Overview:
 
 .. image:: recommended_platforms.png
 
@@ -22,8 +24,6 @@ Overview:
 
 Other Data Sharing Platforms
 ============================
-
-Overview:
 
 .. image:: other_platforms.png
 
