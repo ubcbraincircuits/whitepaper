@@ -18,6 +18,8 @@ The relevant precautions and standards depend on the nature of the data and is o
 
    The classification of data may change over time, hence the method of data sharing and/or storage being used can also be changed as other options become permissible or more desirable. 
 
+.. _ubc_transmission:
+
 Transmission and Sharing of UBC Electronic Information
 ======================================================
 There are two sections of note in this standard. The table under Section 9 provides the method of transmission(s) appropriate for each information security classification. To ensure compliance,  Table 2  categorizes the major services presented in this paper by method of transmission, however note that the classifications made here have not been approved by the Office of the Chief Information Officer. 
