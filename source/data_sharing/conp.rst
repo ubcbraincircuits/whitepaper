@@ -1,7 +1,8 @@
 ==========================================
 Canadian Open Neuroscience Platform (CONP)
 ==========================================
-From Brain Canada (`reference <http://braincanada.ca/funded_grants/canadian-open-neuroscience-platform>`_):: 
+
+From `Brain Canada <http://braincanada.ca/funded_grants/canadian-open-neuroscience-platform>`_: 
 
     The Canadian Open Neuroscience Platform (CONP) is a national platform for open sharing of neuroscience research data and brings together many of the country’s leading scientists in basic and clinical neuroscience to form an interactive network of collaborations in brain research, interdisciplinary partnership, clinical translation and Open Publishing. The goal of the platform is to improve the accessibility and re-usability of neuroscience data and, by increasing awareness of ongoing and past research efforts, it will reduce unnecessary duplication and overlap, resulting in a more efficient use of funding support. The CONP will also engage young investigators across the country in order to develop the next generation of “open” scientists.
 
@@ -19,9 +20,9 @@ NeuroLibre
 
 This allows:
 
-* researchers to produce a clear and reproducible publication 
-* reviewers to gain further insight and develop a better understanding of the data 
-* other researchers to contribute to a research project as they can run their own experiments and analysis on the data in situ
-* researchers to communicate complex ideas and research to stakeholders without a neuroscience background, such as the media.
+	- researchers to produce a clear and reproducible publication 
+	- reviewers to gain further insight and develop a better understanding of the data 
+	- other researchers to contribute to a research project as they can run their own experiments and analysis on the data in situ
+	- researchers to communicate complex ideas and research to stakeholders without a neuroscience background, such as the media.
 
 NeuroLibre is seen as the next step in open Neuroscience publication. CONP has not placed any restrictions on what can be published through NeuroLibre, and have encouraged researchers to submit Jupyter Notebooks/Books developed at any stage of the research life cycle.
