@@ -1,3 +1,5 @@
+.. _compute_canada:
+
 ===================
 Compute Canada (CC)
 ===================
