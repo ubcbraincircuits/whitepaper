@@ -1,13 +1,20 @@
 Open Science Framework
 ======================
 `Open Science Framework (OSF) <https://osf.io/>`_ is a free and open source cloud-based data management 
-system developed by the `Center for Open Science <https://cos.io/>`_.
+system developed by the `Center for Open Science (COS) <https://cos.io/>`_.
 
 The following introduction is based on the `OSF Guides <https://help.osf.io/hc/en-us>`_.
 
 Storage and Backup
 ------------------
 OSF uses Google Cloud for active and archival storage and Amazon Glacier as a backup location. 
+
+.. note::
+	OSF is maintained and developed by the Center for Open Science, which has established a $250,000
+	preservation fund in the event that COS closes down. This fund can preserve and maintain read access
+	to hosted data for more than 50 years. 
+	
+	OSF is free due to the support of `COS sponsors <https://cos.io/about/our-sponsors/>`_.
 
 Location
 --------
