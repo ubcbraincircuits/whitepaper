@@ -58,8 +58,12 @@ Resources on file naming conventions:
 Best Practices from Exemplar Labs
 ---------------------------------
 
-* The 3-2-1 Backup rule: At the very least, research data should have 3 copies, with 2 copies on different media and 1 copy off-site. This includes having 2 UBC copies.
-* As part of your DMP, set up infrastructure, services, and training to ensure that at worst, only one day of work can be lost.
-* All data is accompanied by a metadata file. Secondary data is accompanied by a wiki article describing how the data was processed and analysed.
-* Automated metadata entry for experimental data. `Example 1 <http://doi.org/10.5281/zenodo.3268838>`_, `Example 2 <http://github.com/cortex-lab/alyx>`_ 
-* Backup snapshots of all workstations and the central data storage servers. 
+* The **3-2-1 Backup** rule: At the very least, research data should have 3 copies, with 2 copies on different media and 1 copy off-site. This includes having 2 UBC copies.
+* As part of your DMP, set up infrastructure, services, and training to ensure that at worst, **only one day of work can be lost in the event of an emergency**.
+* **All data is accompanied by a metadata file**. Secondary data is accompanied by a wiki article describing how the data was processed and analysed.
+* **Automated metadata entry** for experimental data. 
+
+	- `Example 1 <http://doi.org/10.5281/zenodo.3268838>`_ 
+	- `Example 2 <http://github.com/cortex-lab/alyx>`_ 
+	
+* **Backup snapshots** of all workstations and the central data storage servers. 
