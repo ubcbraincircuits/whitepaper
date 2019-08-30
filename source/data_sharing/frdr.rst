@@ -5,12 +5,17 @@ Federated Research Data Repository (FRDR)
 and the `Canadian Association of Research Libraries (CARL) <http://www.carl-abrc.ca/about-carl/>`_ 
 have collaborated to produce the `Federated Research Data Repository <https://www.frdr.ca/repo/>`_.
 
-
+.. attention::
+	We are pleased to announce that we have set up a `FRDR collection for the cluster <https://www.frdr.ca/repo/handle/ubcbraincircuits>`_, 
+	on which all cluster-associated datasets will appear.
+	
+	PIs can contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ to become a depositor.
+	
 Storage and Backup
 ------------------
 Location
 ~~~~~~~~
-From frdr.ca/docs/en/about:
+From FRDR's `About <https://www.frdr.ca/docs/en/about/#security-and-privacy>`_ page: 
 
     Data submitted to FRDR is housed on Compute Canada managed infrastructure at the University of Victoria, 
     BC or at the University of Waterloo, ON. Research data submitted to FRDR does not leave Canada.
@@ -25,9 +30,11 @@ securely between the endpoints so the data does not leave Canada.
 
 Size limits
 ~~~~~~~~~~~
-There is a theoretical dataset limit of 4TB due to the limitation of the Archivematica
-data preservation system. There has not been further comment on whether they will 
-impose their own upload size limit.
+
+.. attention::
+	There is a theoretical dataset limit of **4TB** due to the limitation of the Archivematica
+	data preservation system. There has not been further comment on whether they will 
+	impose their own upload size limit.
 
 However, they do have limited resources so they may impose restrictions during curation 
 if datasets of unreasonable magnitude are uploaded.
@@ -39,12 +46,13 @@ A request must be made via email in case any changes need to be made.
 
 Curation 
 --------
-Curators will perform tasks like:
-* Checking metadata record for completeness
-* Linking DOIs for related publications 
-* Validation of data, for instance, flagging tabular null data with no explanation, corrupt files
-* Checking documentation
-* Checking for copyright and ethical violations
+Curators perform tasks such as:
+
+	- Checking metadata record for completeness
+	- Linking DOIs for related publications 
+	- Validation of data, for instance, flagging tabular null data with no explanation, corrupt files
+	- Checking documentation
+	- Checking for copyright and ethical violations
 
 They typically take up to 48 hours to complete this process, after which it takes 15 minutes to 
 complete DOI registration, and a further 2 hours for the dataset to appear for download 
@@ -55,7 +63,7 @@ Data Sharing and Collaboration
 FRDR includes search functionality for its own datasets and datasets 
 that it harvests from other sources such as the Scholars Portal Dataverse. 
 Users can search for/deposit datasets using the online web interface or by using an API. 
-Note that while depositing data requires authorisation, anybody can search for datasets.
+Note that while depositing data requires authorization, anybody can search for datasets.
 FRDR is also format agnostic, and allows users to manage the dataset file hierarchy. 
 It also support embargos. They also issue DOIs for all deposited datasets.
 Other features include data integrity checks using checksums, curation and upload authentication.
@@ -70,7 +78,7 @@ On Compute Canada clusters, Home spaces are unique to individual users while
 the Project space is shared by a research group. Both are backed up and are not purged.
 Quotas are exclusive to each cluster and do not extend to the other clusters.
 
-.. csv-table:: Storage Quotas
+.. csv-table:: 
    :header: "Cluster", "Home Space", "Project Space"
    :widths: 10, 15, 15
 
@@ -78,6 +86,7 @@ Quotas are exclusive to each cluster and do not extend to the other clusters.
    "Graham", 50 GB and 0.5 M files per user, 1 TB and 0.5 M files per group
    "Béluga", 50 GB and 0.5 M files per user, 1 TB and 0.5 M files per group
 
+*Storage Quotas*
 
 This means they can be used to share files to Compute Canada users. If a Globus subsription 
 is purchased, files can be shared with non Compute Canada users as well. 
