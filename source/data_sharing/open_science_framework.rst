@@ -17,10 +17,12 @@ be applied to new projects and components. Each project and component can also h
 
 Size limits
 -----------
-There is no limit on storage per project and no cap on the amount of OSF Storage per user. 
 
-Direct upload of individual files to OSF Storage has a 5GB limit. However, third-party add-ons
-like Dropbox can be used to integrate different services already in use and connect them to OSF
+.. attention::
+	There is no limit on storage per project and no cap on the amount of OSF Storage per user. Direct upload of individual 
+	files to OSF Storage has a **5GB** limit. 
+
+Third-party add-ons like Dropbox can be used to integrate different services already in use and connect them to OSF
 to allow access to existing data/materials. There is no limit for the amount of storage used
 across add-ons. 
 
@@ -30,9 +32,9 @@ Citation add-ons
 ~~~~~~~~~~~~~~~~
 There are two reference managers supported by OSF:
 
-1. `Mendeley <https://help.osf.io/hc/en-us/articles/360019929893-Connect-Mendeley-to-a-Project>`_
-
-2. `Zotero <https://help.osf.io/hc/en-us/articles/360019929913-Connect-Zotero-to-a-Project>`_
+	1. `Mendeley <https://help.osf.io/hc/en-us/articles/360019929893-Connect-Mendeley-to-a-Project>`_
+	
+	2. `Zotero <https://help.osf.io/hc/en-us/articles/360019929913-Connect-Zotero-to-a-Project>`_
 
 Storage add-ons
 ~~~~~~~~~~~~~~~
@@ -46,8 +48,8 @@ Amazon S3, ownCloud, Dataverse, GitHub, Bitbucket and GitLab.
 
 .. warning::
 	OSF does not store or back up content within an add-on. Ensure that each individual
-	add-on being used complies with `UBC's Information Security Standard #03: Transmission
-	and Sharing og UBC Electronic Information <https://cio.ubc.ca/sites/cio.ubc.ca/files/documents/standards/Std%2003%20Transmission%20and%20Sharing%20of%20UBC%20Electronic%20Information.pdf>`_.
+	add-on being used complies with :ref:`UBC's Information Security Standard #03: Transmission
+	and Sharing og UBC Electronic Information <ubc_transmission>`.
 	
 Collaboration
 -------------
@@ -60,8 +62,8 @@ Within a lab
 OSF projects and components are private by default. 
 Members of the lab can be added as “Contributors” to projects. There are two types of contributors:
 
-1. Bibliographic (displayed in contributor list and in project citations)
-2. Non-bibliographic
+	1. Bibliographic (displayed in contributor list and in project citations)
+	2. Non-bibliographic
 
 Each component within a project can have its own set of contributors.
 
@@ -69,9 +71,9 @@ Each component within a project can have its own set of contributors.
 
 A contributor can be given three levels of permissions: 
 
-1. Administrator
-2. Read + Write
-3. Read only
+	1. Administrator
+	2. Read + Write
+	3. Read only
 
 Each contributor can be granted different levels of permissions across components. 
 
