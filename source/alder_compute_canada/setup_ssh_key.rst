@@ -79,13 +79,15 @@ Add the key
 For MacOS to remember your private key password, create a file called ``~/.ssh/config`` 
 and input the following:
 ::
-    Host *
-    UseKeychain yes
+
+	Host *
+	UseKeychain yes
 
 3) SSH agent forwarding
 -----------------------
 If a ``~/.ssh/config`` does not already exist, create it. Add to the file the following:
 ::
+
     Host cedar
       Hostname  cedar.computecanada.ca
       User  username
