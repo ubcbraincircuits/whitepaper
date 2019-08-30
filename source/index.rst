@@ -32,6 +32,7 @@ Contents
    :caption: Data Management and Data Sharing
    
    ethics_legal/federal
+   ethics_legal/tri-agency
    ethics_legal/index
    dmp/index
    data_storage/index
