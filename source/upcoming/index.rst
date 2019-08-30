@@ -4,7 +4,7 @@ Coming Soon
 
 NextCloud - Advanced Research Computing (ARC)
 =============================================
-From their `website http://arc.ubc.ca>`_:
+From the `ARC website <http://arc.ubc.ca>`_:
 
     We are a free service supporting the high-performance computing and data management needs of UBC researchers. Our experienced, dedicated team provides consultation, expertise, and access to cyberinfrastructure.
 
