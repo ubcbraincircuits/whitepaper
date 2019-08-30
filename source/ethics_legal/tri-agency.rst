@@ -6,8 +6,8 @@ the `Natural Sciences and Engineering Research Council of Canada (NSERC) <http:/
 and the `Social Sciences and Humanities Research Council of Canada (SSHRC) <http://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx>`_ 
 are three federal research funding agencies collectively known as the Tri-Agency. 
 
-The Tri-Agency Open Access Policy on Publications
--------------------------------------------------
+Tri-Agency Open Access Policy on Publications
+---------------------------------------------
 
 The objective of the `Tri-Agency Open Access Policy on Publications <http://www.science.gc.ca/eic/site/063.nsf/eng/h_F6765465.html>`_ 
 is to increase the accessibility of the results of Agency-funded research. As of January 1, 2008, research funded by the CIHR 
