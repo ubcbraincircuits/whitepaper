@@ -31,6 +31,7 @@ Contents
    :maxdepth: 1
    :caption: Data Management and Data Sharing
    
+   ethics_legal/federal
    ethics_legal/index
    dmp/index
    data_storage/index
