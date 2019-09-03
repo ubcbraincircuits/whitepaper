@@ -138,13 +138,13 @@ If you have exisitng respositories that you desire to move to ``github.com/ubcbr
 the transfer procedure can be found `here <https://help.github.com/en/articles/transferring-a-repository>`_. 
 When prompted, set the ``New Owner's Github username or organisation name`` field to ``UBCBrainCircuits``.
 
-..note::
+.. note::
 
   The main aims of doing this are:
-
-  * Reducing fragmentation by maintaining a centralised code repository under the administration of PIs for efficient management. This also enhances discoverability and the ability to collaborate across labs.
-  * Enabling labs to access repositories after members move on
-  * Giving cluster members free access to GitHub Team and its benefits
+  
+  * reduce fragmentation by maintaining a centralised code repository under the administration of PIs for efficient management. This also enhances discoverability and the ability to collaborate across labs.
+  * enable labs to access repositories after members move on
+  * give cluster members free access to GitHub Team and its benefits
 
 4) Create or Join a Group
 -------------------------
