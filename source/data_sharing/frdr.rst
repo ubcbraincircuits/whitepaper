@@ -9,7 +9,7 @@ have collaborated to produce the `Federated Research Data Repository <https://ww
 	We are pleased to announce that we have set up a `FRDR collection for the cluster <https://www.frdr.ca/repo/handle/ubcbraincircuits>`_, 
 	on which all cluster-associated datasets will appear.
 	
-	PIs can contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ to become a depositor.
+	To deposit a dataset into the cluster's FRDR collection, refer to the :ref:`deposit` section. 
 	
 Storage and Backup
 ------------------
@@ -24,7 +24,7 @@ From FRDR's `About <https://www.frdr.ca/docs/en/about/#security-and-privacy>`_ p
     to be indexed and made available for discovering datasets. Certain metadata fields, 
     for example, submitter contact information, are not shared with Globus.
 
-Larger uploads are made using Globus. While globus is hosted in the USA on AWS, 
+Larger uploads are made using Globus. While Globus is hosted in the USA on AWS, 
 only the public metadata is stored there; the datasets themselves are transferred 
 securely between the endpoints so the data does not leave Canada.
 
@@ -69,6 +69,52 @@ It also support embargos. They also issue DOIs for all deposited datasets.
 Other features include data integrity checks using checksums, curation and upload authentication.
 Through the use of Globus, FRDR also enables secure transfer of large datasets with the ability 
 to make asynchronous and resumable transfers that are automatically managed.
+
+Deposit and Download
+--------------------
+
+Globus Connect Personal
+~~~~~~~~~~~~~~~~~~~~~~~
+
+To download or deposit a dataset, Globus Connect Personal must first be installed then your computer must be set up as an Endpoint. 
+
+	1. Log into FRDR using one of these accounts: Orcid, Compute Canada, Globus ID, Google. Detailed log-in instructions can be found `here <https://www.frdr.ca/docs/en/before_depositing/#2-getting-globus-connect-software>`__. 
+	2. Click on :guilabel:`Endpoints` from the toolbar on the left-hand side of the page, then click on :guilabel:`Create new endpoint` at the top right corner.
+	3. Select "Globus Connect Personal".
+	4. Follow the three steps on the page.
+
+The endpoint you created will show up in the "Endpoints" page. You are now able to download datasets from FRDR and if you are already an approved depositor, you can also submit 
+datasets.  
+
+.. _deposit:
+ 
+Deposit
+~~~~~~~
+
+Any lab in the cluster can deposit datasets into the "UBC Brain Circuits" special storage group in FRDR.
+PIs can become depositors by sending an email to `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ with the email 
+address or account that they used to log into FRDR. It can be one of the following (copied from FRDR, `Getting Authorization To Submit <https://www.frdr.ca/docs/en/before_depositing/#3-getting-authorization-to-submit>`_):
+
+	- username@computecanada.ca
+	- 0000-0002-1342-3550@ORCID.org
+	- username@globusid.org
+	- username@gmail.com
+	
+You will receive an email from ``noreply@globusonline.org`` with the subject "You are invited to join FRDR Depositors - Déposants DFDR".
+Once you accept the invitation, "FRDR UBC Brain Circuits Depositors" should appear when you click on :guilabel:`Groups`
+in the toolbar. You are now eligible to deposit datasets into the cluster's storage group. 
+
+FRDR provides information and instructions on
+
+	- Before Depositing
+	- Depositing (includes `Using Globus to Upload Dataset <https://www.frdr.ca/docs/en/depositing_data/#using-globus-to-upload-dataset>`_)
+	- After Depositing
+	
+.. attention::
+	To submit a dataset, log into FRDR and click on "Deposit Dataset" in the toolbar at the top of the page. 
+	Click on "Submit a New Dataset" in the "New Submission" box. This will take you to a page titled *Submit: Select Storage Group*.
+	
+	Make sure you select "UBC Brain Circuits" under *Special Storage Groups*!
 
 =========================
 Sharing on Compute Canada
