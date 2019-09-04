@@ -34,4 +34,4 @@ From the TeamShare `website <https://it.ubc.ca/services/web-servers-storage/team
     * Every 2 hours between 6:00 am and 6:00 pm and kept for 5 days
     * Daily at midnight and kept for 30 days
 
-Teamshare is fully compliant with the 3-2-1 backup rule, with an offsite backup kept in Kamloops. This means that it can be a one stop shop option for data storage and backup, especially for labs that produce small disk volumes of data.
+Teamshare is fully compliant with the 3-2-1 Backup Rule, with an offsite backup in Kamloops. This means that it can be a one-stop shop option for data storage and backup, especially for labs that produce small disk volumes of data.
