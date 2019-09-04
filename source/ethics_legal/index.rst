@@ -33,6 +33,6 @@ UBC Systems include but is not limited to Compute Canada, Teamshare, Educloud, F
 Please be advised that sharing of Very High, High, and Medium Risk UBC Electronic Information through personal email is not permitted under Policy 104, Acceptable Use and
 Security of UBC Electronic Information and Systems. Contact information of UBC faculty and staff is considered low risk information and is not recommended for sharing through personal email. It is therefore highly recommended for members of the lab to secure and use a UBC email account for University Business. 
 
-.. image:: storage_security_classes.PNG
+.. image:: storage_security_classes.png
 
 *Major data sharing and storage platforms classified according to Information Security Standard #03: Transmission and Sharing of UBC Electronic Information*
