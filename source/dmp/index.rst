@@ -11,9 +11,9 @@ From the UBC library `website <https://researchdata.library.ubc.ca/plan/>`_:
 DMPs are increasingly becoming a part of grant applications. 
 Granting agencies such as the Canadian Institutes of Health Research (CIHR), the Natural Sciences and Engineering Research Council of Canada (NSERC), the Social Sciences and Humanities Research Council of Canada (SSHRC) and the Canadian Foundation for Innovation (CFI) require that the research they fund is conducted using best practices in data management for the following reasons:
 
-* Ensuring that data management practices align with ethical and legal requirements. This includes animal and patient ethics, university policy, granting agency and government requirements.
-* Ensuring that research data is accessible, reusable and stored properly. This includes data standardisation, backup, documentation and metadata.
-* Fostering open science practices to enhance research productivity and quality
+* To ensure that data management practices align with ethical and legal requirements. This includes animal and patient ethics, university policy, granting agency and government requirements.
+* To ensure that research data is accessible, reusable, and stored properly. This includes data standardisation, backup, documentation, and metadata.
+* To foster open science practices to enhance research productivity and quality.
 
 Important documents that should be read by all researchers include:
 
@@ -26,17 +26,17 @@ This whitepaper is intended to aid PIs in developing DMPs. In addition to this, 
 
 UBC Library
 -----------
-The UBC library provides resources for Research Data Management, including this website and research data librarians who can be contacted at  research.data@ubc.ca
+The UBC library provides resources for Research Data Management through its `website <https://researchdata.library.ubc.ca/>`__. Additionally, research data librarians can be contacted at research.data@ubc.ca
 
 Portage 
 -------
-Portage was launched by the Canadian Association of Research Libraries and works with libraries to enhance shared stewardship of data. This includes availing expertise such as research librarians and services and technologies such as the `Federated Research Data Repository <https://ubcbraincircuits.readthedocs.io/en/latest/data_sharing/frdr.html>`_ and their `DMP Assistant <assistant.portagenetwork.ca>`_, a step-by-step tool for preparing data management tools. Researchers are highly recommended to develop their DMPS using this tool.
+`Portage <https://portagenetwork.ca/>`__ was launched by the Canadian Association of Research Libraries and works with libraries to enhance shared stewardship of data. This includes availing expertise such as research librarians and services and technologies such as the `Federated Research Data Repository <https://ubcbraincircuits.readthedocs.io/en/latest/data_sharing/frdr.html>`_ and the Portage `DMP Assistant <assistant.portagenetwork.ca>`_, a step-by-step tool for preparing data management tools. Researchers are highly recommended to develop their DMPs using this tool.
 
 Additional Resources
 ====================
 Metadata 
 --------
-Metadata is data that describes data. Ideally, all datasets should be accompanied by at least the bare minimum of metadata that fully describes them to target audiences including lab members and external collaborators.
+Metadata is data that describes data. Ideally, all datasets should be accompanied by, at minimum, metadata that fully describes the dataset such that lab members, external collaborators and preferably, any user, can reproduce or extend the study. 
 
 Resources on research data metadata and metadata standards:
 
@@ -47,7 +47,7 @@ Resources on research data metadata and metadata standards:
 
 File Naming Conventions
 -----------------------
-File naming conventions should carefully consider how they are interpreted by different computer systems, eliminate ambiguity, be concise, support versioning and be conscious of directory structure and hierarchy.
+File naming conventions should be interoperable between different computer systems, eliminate ambiguity, support versioning, be concise, and be conscious of directory structure and hierarchy.
 
 Resources on file naming conventions:
 
