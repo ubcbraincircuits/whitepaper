@@ -2,11 +2,13 @@
 Data Storage Platforms
 ======================
 
-In this section, we provide overviews and brief evaluations of various storage platforms and technologies.
+To facilitate the construction of data management plans, we make a distinction between data in an ongoing research investigation and final data that has been processed and/or analyzed. Thus, we divide data storage services into two sections: Live Storage and Data Archival.
+
+For both sections, we provide overviews and brief evaluations of various storage platforms and technologies.
 
 Live Storage
 ============
-Live Data Storage is appropriate for data that is actively changing and is accessed frequently. This typically requires a high performance file system with low wait times and high read and write speeds to support demanding research workflows. They are normally characterised by mid to high storage costs.
+Live storage is appropriate for data that is actively changing and accessed frequently. This typically requires a high performance file system with low wait times and high read-and-write speeds to support demanding research workflows. They are normally characterised by mid to high storage costs.
 
 .. toctree::
    :maxdepth: 1
@@ -18,7 +20,9 @@ Live Data Storage is appropriate for data that is actively changing and is acces
 
 Data Archival
 =============
-Live Data Storage is appropriate for data that is actively changing and is accessed frequently. This typically requires a high performance file system with low wait times and high read and write speeds to support demanding research workflows. They are normally characterised by mid to high storage costs.
+Research data that does not change or is not accessed often (< 1 times a month) should be archived for preservation to reduce storage costs and effectively manage live storage resources. Archival and long-term availability of research data is also a requirement of most research grants.
+
+There are solutions available that are designed for archival, with common characteristics including low storage costs, high retrieval times, and high retrieval costs.
 
 .. toctree::
    :maxdepth: 1
