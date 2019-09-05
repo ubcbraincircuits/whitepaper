@@ -20,11 +20,11 @@ Benefits and features:
 .. note:: 
    To use the JupyterHub, you must 1) be affiliated with the cluster and 2) have an account on Alder. To obtain an account on Alder, you must be sponsored by your PI and you must send an account request to support@arc.ubc.ca 
    
-   To install packages, contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ with your requirements
+   To install packages, contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ with your requirements.
 
 Resource Allocation
 -------------------
-Currently when users log in to a notebook session, they are allocated resources (4 CPUs and 16 GB RAM). 
+Currently, when users log in to a notebook session, they are allocated the following resources: 4 CPUs and 16 GB RAM. 
 
 Future Directions for Resource Allocation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -34,4 +34,4 @@ Future Directions for Resource Allocation
 3) A schedule for resource allocation requests, whereby researchers can request dedicated resources and compute time to ensure they have sessions and resource availability when needed. This would mean that certain nodes will not be accessible through the dynamic scheduler in 2) and will only be available to a user/group of users on a manually administered queue.
 
 .. tip::
-   PIs are encouraged to advocate for additional resources for cluster upgrades. This includes GPUs, storage backup and other compute resources
+   PIs are encouraged to advocate for additional resources for cluster upgrades. This includes GPUs, storage backup, and other computational resources.
