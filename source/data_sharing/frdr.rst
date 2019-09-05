@@ -100,7 +100,7 @@ address or account that they used to log into FRDR. It can be one of the followi
 	- username@globusid.org
 	- username@gmail.com
 	
-You will receive an email from ``noreply@globusonline.org`` with the subject "You are invited to join FRDR Depositors - Déposants DFDR".
+You will receive an email from noreply@globusonline.org with the subject "You are invited to join FRDR Depositors - Déposants DFDR".
 Once you accept the invitation, "FRDR UBC Brain Circuits Depositors" should appear when you click on :guilabel:`Groups`
 in the toolbar. You are now eligible to deposit datasets into the cluster's storage group. 
 
@@ -115,7 +115,22 @@ FRDR provides information and instructions on
 	Click on "Submit a New Dataset" in the "New Submission" box. This will take you to a page titled *Submit: Select Storage Group*.
 	
 	Make sure you select "UBC Brain Circuits" under *Special Storage Groups*!
+	
+Download
+~~~~~~~~
 
+To download a dataset from FRDR, 
+
+	1. Navigate to the page of the desired dataset. Click on :guilabel:`Download Dataset`, which is located near the bottom. This will take you to the *File Manager* page but if you're not already logged into FRDR, it will first prompt you to log in.
+	2. You should see two columns: the left one contains the dataset under a Collection that is similar to "FRDR-Prod-2". Select that files you want to download or click :guilabel:`select all` in the blue toolbar if you want to download the entire dataset.
+	3. Click :guilabel:`Transfer or Sync to` located in the middle of the two columns.
+	4. Click on :guilabel:`-select a collection-`. This is where the dataset will be downloaded.
+	5. Choose the Endpoint corresponding to the computer you wish the download to occur in. If you don't already have an Endpoint set up on the computer you are using, click on :guilabel:`Install Globus Connect Personal` and follow the instructions.
+	6. Once you've selected the endpoint, the *File Manager* page reappears. Make sure you check out the "Transfer & Sync Options". To start the download, click on the blue :guilabel:`Start` button underneath the left column with an arrow pointing towards the column corresponding to the Endpoint you've chosen. 
+	7. A green banner should appear with the message: "Transfer request submitted successfully" followed by the task ID. You can track the transfer's progress in the Activity page. 
+	
+You will receive an email from noreply@globusonline.org with the subject: "SUCCEEDED" followed by the task id once the transfer is complete. 
+	
 =========================
 Sharing on Compute Canada
 =========================
