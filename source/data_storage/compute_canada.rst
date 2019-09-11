@@ -5,7 +5,7 @@ Compute Canada (CC)
 ===================
 `Compute Canada <https://www.computecanada.ca/>`__ is a provider of Advanced Research Computing infrastructure, including systems, storage and software. Their regional partner is `Westgrid <http://westgrid.ca>`_, and they provide additional support.
 
-Compute Canada provides heterogeneous, general purpose clusters and Clouds that allow researchers to access resources such as CPU and GPU time, `software <http://docs.computecanada.ca/wiki/Available_software>`_, as well as different storage systems. A list of the available national systems is found `here <docs.computecanada.ca/wiki/National_systems>`_.
+Compute Canada provides heterogeneous, general purpose clusters and Clouds that allow researchers to access resources such as CPU and GPU time, `software <http://docs.computecanada.ca/wiki/Available_software>`_, as well as different storage systems. A list of the available national systems is found `here <https://docs.computecanada.ca/wiki/National_systems>`__.
 
 Cost
 ====
@@ -65,7 +65,7 @@ PIs are encouraged to apply for storage through RAS. Details can be found on the
 
 Resource Allocation Competitions (RAC)
 --------------------------------------
-RAC are held annually each fall and are applied in the following April. and enable researchers to request resources beyond what they can apply for through RAS. Learn more about making an entry `here <computecanada.ca/research-portal/accessing-resources/resource-allocation-competitions>`__.
+RAC are held annually each fall and are applied in the following April. and enable researchers to request resources beyond what they can apply for through RAS. Learn more about making an entry `here <https://www.computecanada.ca/research-portal/accessing-resources/resource-allocation-competitions>`__.
 
 * CPU/GPU time by priority
 * Larger storage allocations
@@ -73,6 +73,6 @@ RAC are held annually each fall and are applied in the following April. and enab
 
 Recommended Usage Scenario for Live Storage
 -------------------------------------------
-The project file system can be used as a backup made at regular intervals such as daily or even every 2 hours. This can be automated as a cron job using shell scripting tools like globus,  rsync, scp or sftp. Documentation on these tools can be found `here <docs.computecanada.ca/wiki/Transferring_data>`__.
+The project file system can be used as a backup made at regular intervals such as daily or even every 2 hours. This can be automated as a cron job using shell scripting tools like globus,  rsync, scp or sftp. Documentation on these tools can be found `here <https://docs.computecanada.ca/wiki/Transferring_data>`__.
 
 Archeion or the Globus API/SDK can be used to script globus transfers.
