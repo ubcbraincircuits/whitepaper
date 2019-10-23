@@ -18,7 +18,10 @@ Benefits and features:
 * All standard Jupyter Notebook features, including a Text editor, file manager and Command Line Interface 
 
 .. note:: 
-   To use the JupyterHub, you must 1) be affiliated with the cluster and 2) have an account on Alder. To obtain an account on Alder, you must be sponsored by your PI and you must send an account request to arc.support@ubc.ca 
+   To use the JupyterHub, you must
+   
+   1. be affiliated with DMCBH and
+   2. have an account on Alder. To obtain an account on Alder, you must be sponsored by your PI and you must send an account request to arc.support@ubc.ca 
    
    To install packages, contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ with your requirements.
 
