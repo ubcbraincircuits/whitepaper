@@ -5,7 +5,7 @@ Terms and Definitions
 
 (*) As defined in the University of British Columbia Generic Template within the Portage DMP Assistant
 
-(ˠ) As defined by `UBC Library <https://researchdata.library.ubc.ca/>`_
+(ˠ) As defined by the `UBC Library <https://researchdata.library.ubc.ca/>`_
 
 (⁻) As defined by `DataJoint <https://docs.datajoint.io/python/intro/01-Data-Pipelines.html#what-is-a-data-pipeline>`_
 
