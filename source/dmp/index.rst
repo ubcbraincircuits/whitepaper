@@ -45,7 +45,7 @@ Resources on research data metadata and metadata standards:
 
 * UBC Library - `Document and Describe <http://researchdata.library.ubc.ca/plan/document-describe-your-data>`_
 * University of Western Australia -  `Research Data Management Toolkit: Documentation <https://guides.library.uwa.edu.au/RDMtoolkit/documentation>`_
-* Cornell University - `Research Data Management Service Group: Writing Metadata <http://data.research.cornell.edu/content/writing-metadata>`_
+* Cornell University - `Research Data Management Service Group: Metadata and describing data <http://data.research.cornell.edu/content/writing-metadata>`_
 * FairSharing  - `A curated, informative and educational resource on data and metadata standards, inter-related to databases and data policies <http://fairsharing.org>`_
 
 File Naming Conventions
