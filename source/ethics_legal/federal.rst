@@ -1,13 +1,16 @@
 Federal Initiatives on Open Science
 ===================================
 
+Although directed towards government scientists, we present the following federal initiatives on Open Science to show that data sharing 
+is a task of enough importance to be addressed on a national scale. 
+
 Canada's Commitment to Open Science 
 -----------------------------------
 
 In an `open letter <https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/canada-commitment-open-science.html>`_, 
 the Treasury Board of Canada Secretariat discusses the concern that federal scientists funded by the federal government cannot 
-discuss their work openly, based on the outcome of the survey on `scientific integrity by the Professional Institute of the 
-Public Service of Canada (PIPSC) <https://www.pipsc.ca/news-issues/scientific-integrity>`_.
+discuss their work openly, based on the outcome of the `survey <https://www.pipsc.ca/news-issues/scientific-integrity>`_ on scientific integrity by the Professional Institute of the 
+Public Service of Canada (PIPSC).
 
 To address this, they have undertaken the following key initiatives:
 
@@ -40,7 +43,7 @@ Other relevant documents:
 		
 	- `Progress made on the milestones <https://search.open.canada.ca/en/nap/?sort=score%20desc&page=1&search_text=C05>`_
 	
-	- `End-of-Term Self-Assessment Report on Canada’s Third Biennial Plan to the Open Government Partnership 2016-2018: Commitment 14: Increase openness of federal science activities (Open Science) <https://open.canada.ca/en/content/end-term-self-assessment-report-canadas-third-biennial-plan-open-government-partnership#toc_com14>`_
+	- `End-of-Term Self-Assessment Report on Canada’s Third Biennial Plan to the Open Government Partnership 2016-2018 - Commitment 14: Increase openness of federal science activities (Open Science) <https://open.canada.ca/en/content/end-term-self-assessment-report-canadas-third-biennial-plan-open-government-partnership#toc_com14>`_
 	
 	
 	
