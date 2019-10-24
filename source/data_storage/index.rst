@@ -20,7 +20,9 @@ Live storage is appropriate for data that is actively changing and accessed freq
 
 Data Archival
 =============
-Research data that does not change or is not accessed often (< 1 times a month) should be archived for preservation to reduce storage costs and effectively manage live storage resources. Archival and long-term availability of research data is also a requirement of most research grants.
+Research data that does not change or is not accessed often (< 1 time a month) should be archived for preservation to reduce storage 
+costs and effectively manage live storage resources. Archival and long-term availability of research data is also a requirement 
+of some journals and research grants.
 
 There are solutions available that are designed for archival, with common characteristics including low storage costs, high retrieval times, and high retrieval costs.
 
