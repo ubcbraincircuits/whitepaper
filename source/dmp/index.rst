@@ -15,28 +15,31 @@ Granting agencies such as the Canadian Institutes of Health Research (CIHR), the
 * To ensure that research data is accessible, reusable, and stored properly. This includes data standardisation, backup, documentation, and metadata.
 * To foster open science practices to enhance research productivity and quality.
 
-Important documents that should be read by all researchers include:
-
-* `The Tri-Agency Research Data Management Policy <http://science.gc.ca/eic/site/063.nsf/eng/h_547652FB.html>`_
-* `Canada’s Commitment to Open Science <http://canada.ca/en/treasury-board-secretariat/services/access-information-privacy/canada-commitment-open-science.html>`_
-
 Developing a DMP
 ================
-This whitepaper is intended to aid PIs in developing DMPs. In addition to this, the following resources are available: 
+The white paper is intended to aid PIs in developing DMPs. In addition to this, the following resources are available: 
 
 UBC Library
 -----------
 The UBC library provides resources for Research Data Management through its `website <https://researchdata.library.ubc.ca/>`__. Additionally, research data librarians can be contacted at research.data@ubc.ca
 
-Portage 
--------
-`Portage <https://portagenetwork.ca/>`__ was launched by the Canadian Association of Research Libraries and works with libraries to enhance shared stewardship of data. This includes availing expertise such as research librarians and services and technologies such as the `Federated Research Data Repository <https://ubcbraincircuits.readthedocs.io/en/latest/data_sharing/frdr.html>`_ and the Portage `DMP Assistant <assistant.portagenetwork.ca>`_, a step-by-step tool for preparing data management tools. Researchers are highly recommended to develop their DMPs using this tool.
+DMP Assistant (Portage) 
+-----------------------
+`Portage <https://portagenetwork.ca/>`__ was launched by the Canadian Association of Research Libraries and works with 
+libraries to enhance shared stewardship of data. This includes availing expertise such as research librarians and services and 
+technologies such as the `Federated Research Data Repository <https://ubcbraincircuits.readthedocs.io/en/latest/data_sharing/frdr.html>`_ 
+and the Portage `DMP Assistant <https://assistant.portagenetwork.ca>`_, a step-by-step tool for preparing a data management plan. 
+Under *Data Management Planning* of section 3, the Tri-Agency Statement of Principles on Digital Data Management states that DMPs 
+should be developed using standardized tools, where available. It is therefore highly recommended that researchers use the 
+Portage DMP Assistant for Canadian funders [#]_. 
 
 Additional Resources
 ====================
+
 Metadata 
 --------
-Metadata is data that describes data. Ideally, all datasets should be accompanied by, at minimum, metadata that fully describes the dataset such that lab members, external collaborators and preferably, any user, can reproduce or extend the study. 
+Metadata is data that describes data. Ideally, all datasets should be accompanied by, at minimum, metadata that fully describes the 
+dataset such that lab members, external collaborators and preferably, any user, can reproduce or extend the study. 
 
 Resources on research data metadata and metadata standards:
 
@@ -47,7 +50,8 @@ Resources on research data metadata and metadata standards:
 
 File Naming Conventions
 -----------------------
-File naming conventions should be interoperable between different computer systems, eliminate ambiguity, support versioning, be concise, and be conscious of directory structure and hierarchy.
+File naming conventions should be interoperable between different computer systems (length, special characters, and case sensitivity), 
+eliminate ambiguity, support versioning, be concise, and be conscious of directory structure and hierarchy.
 
 Resources on file naming conventions:
 
@@ -67,3 +71,5 @@ Best Practices from Exemplar Labs
 	- `Example 2 <http://github.com/cortex-lab/alyx>`_ 
 	
 * **Backup snapshots** of all workstations and the central data storage servers. 
+
+.. [#]  For US funders, such as the NIH and NSF, use the analogous `DMP Tool <https://dmptool.org/>`_.
