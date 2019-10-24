@@ -10,7 +10,7 @@ Tri-Agency Open Access Policy on Publications
 ---------------------------------------------
 
 The objective of the `Tri-Agency Open Access Policy on Publications <http://www.science.gc.ca/eic/site/063.nsf/eng/h_F6765465.html>`_ 
-is to increase the accessibility of the results of Agency-funded research. As of January 1, 2008, research funded by the CIHR 
+(last modified: 2016/12/21) is to increase the accessibility of the results of Agency-funded research. As of January 1, 2008, research funded by the CIHR 
 must satisfy two requirements:
 
 	1. Deposit bioinformatics, atomic, and molecular coordinate data into an appropriate database upon publication. (`Examples of research outputs and corresponding publicly accessible archive, repository or database <http://www.science.gc.ca/eic/site/063.nsf/eng/h_94D49094.html>`_)
@@ -19,7 +19,7 @@ must satisfy two requirements:
 Tri-Agency Research Data Management Policy For Consultation
 -----------------------------------------------------------
 
-The `Tri-Agency Research Data Management Policy for Consultation <http://science.gc.ca/eic/site/063.nsf/eng/h_97610.html>`_ 
+The `Tri-Agency Research Data Management Policy for Consultation <http://science.gc.ca/eic/site/063.nsf/eng/h_97610.html>`_ (last modified: 2018/05/25) 
 promotes best practices in research data management. 
 
 	- Section 3.2 “Data Management Plans” states that grant applicants must ensure that proposals submitted to the agencies include methods that represent best practices in research data management. In particular, the creation of data management plans is encouraged by the agencies, and is required by some grants. 
@@ -31,7 +31,7 @@ Tri-Agency Statement of Principles on Digital Data Management
 -------------------------------------------------------------
 
 The `Tri-Agency Statement of Principles on Digital Data Management <http://www.science.gc.ca/eic/site/063.nsf/eng/h_83F7624E.html>`_ 
-specifies the expectations of the agencies regarding research data management, which encompasses:
+(last modified: 2016/12/21) specifies the expectations of the agencies regarding research data management, which encompasses:
 
 	1. Data Management Planning
 	2. Constraints and Obligations
