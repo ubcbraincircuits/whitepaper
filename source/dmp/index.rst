@@ -29,7 +29,7 @@ DMP Assistant (Portage)
 libraries to enhance shared stewardship of data. This includes availing expertise such as research librarians and services and 
 technologies such as the `Federated Research Data Repository <https://ubcbraincircuits.readthedocs.io/en/latest/data_sharing/frdr.html>`_ 
 and the Portage `DMP Assistant <https://assistant.portagenetwork.ca>`_, a step-by-step tool for preparing a data management plan. 
-Under *Data Management Planning* of section 3, the Tri-Agency Statement of Principles on Digital Data Management states that DMPs 
+Under *Data Management Planning* of section 3, the :ref:`Tri-Agency Statement of Principles on Digital Data Management <tri-agency-principles>` states that DMPs 
 should be developed using standardized tools, where available. It is therefore highly recommended that researchers use the 
 Portage DMP Assistant for Canadian funders [#]_. 
 
