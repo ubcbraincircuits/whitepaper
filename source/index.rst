@@ -1,17 +1,17 @@
-.. UBC Dynamic Brain Circits Cluster Whitepaper documentation master file, created by
+.. UBC Dynamic Brain Circuits Cluster Whitepaper documentation master file, created by
    sphinx-quickstart on Tue Jun 18 10:48:04 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-============================================================
-Welcome to the UBC Dynamic Brain Circits Cluster Whitepaper!
-============================================================
+=============================================================
+Welcome to the UBC Dynamic Brain Circuits Cluster Whitepaper!
+=============================================================
 
 Overview
 ========
 
 The Dynamic Brain Circuits and Connections in Health and Disease research cluster is composed of researchers across departments and faculties united by their collective 
-pursuit of advancing the study of brain connections and their dynamic changes during development, learning, and disease. This white paper aims to provide information, 
+pursuit of advancing the study of brain connections and their dynamic changes during development, lSearning, and disease. This white paper aims to provide information, 
 recommendations, and best practices in data management to aid labs in the Brain Circuits cluster, and the greater DMCBH community, to develop and maintain Data Management Plans 
 (DMPs). This includes considerations to data storage, data sharing, research data workflows, and data stewardship throughout the research life cycle. 
 
