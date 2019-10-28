@@ -27,6 +27,8 @@ promotes best practices in research data management.
 
 Note that as of 2019, this document remains a draft and the policy will be implemented incrementally.
 
+.. _tri-agency-principles:
+
 Tri-Agency Statement of Principles on Digital Data Management
 -------------------------------------------------------------
 
