@@ -2,6 +2,17 @@
 Data Sharing Platforms
 ======================
 
+It is highly recommended for researchers to share data associated with the findings and results of publications as this promotes the cluster’s aim 
+to further engage in open science. In addition to providing a data archival solution whenever appropriate, data sharing platforms have other benefits such as:
+
+* Reduced overall cost of storage - the use most of these platforms are free of charge
+* Backups are created by the platforms and data integrity is highly assured
+* Meeting data management requirements, such as number of backups, backup location and mode, and long-term preservation
+* Embargo features allows fresh data to be backed up and released publicly after publication
+
+The use of APIs provided by these platforms can be used to automate the upload of large quantities of data to these platforms during the initial process of 
+archival and standardised in-lab procedures can then be set up to make archival on such platforms a frequent activity.
+
 .. image:: data_sharing_flowchart.png
 
 *Data sharing flowchart*
