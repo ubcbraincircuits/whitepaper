@@ -17,13 +17,13 @@ OSF uses Google Cloud for active and archival storage and Amazon Glacier as a ba
 	OSF is free due to the support of `COS sponsors <https://cos.io/about/our-sponsors/>`_.
 
 Location
---------
+~~~~~~~~
 The U.S. is OSF’s default storage location. A variety of storage locations are available,
 including Canada (Montreal). The global (default) storage location can be changed and will 
 be applied to new projects and components. Each project and component can also have its own storage location.
 
 Size limits
------------
+~~~~~~~~~~~
 
 .. attention::
 	There is no limit on storage per project and no cap on the amount of OSF Storage per user. Direct upload of individual 
