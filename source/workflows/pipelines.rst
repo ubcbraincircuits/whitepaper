@@ -26,9 +26,12 @@ Frameworks have been developed to build data pipelines, and have been tried and 
 
 DataJoint
 ---------
-Best use: ideal for MATLAB/Python-proficient users 
 
-DataJoint [datajoint.io] is a free and open toolbox for building scientific data platform using Python, MATLAB, or both. It was developed by neuroscientists in Andreas Tolias’ lab at the Baylor College of Medicine. DataJoint provides data integrity and accessibility with intuitive language for defining, querying, and visualizing data pipelines. Through DataJoint’s relational data model, users can automate data entry, processing, and analysis by simply storing data in tables. Relationships between tables enforces data integrity while efficient querying is achieved by performing operations on tables. 
+.. admonition:: Best Use
+
+	Ideal for MATLAB/Python-proficient users.  
+
+`DataJoint <https://datajoint.io/>`_ is a free and open toolbox for building scientific data platform using Python, MATLAB, or both. It was developed by neuroscientists in Andreas Tolias’ lab at the Baylor College of Medicine. DataJoint provides data integrity and accessibility with intuitive language for defining, querying, and visualizing data pipelines. Through DataJoint’s relational data model, users can automate data entry, processing, and analysis by simply storing data in tables. Relationships between tables enforces data integrity while efficient querying is achieved by performing operations on tables. 
 
 A GUI such as Heidi SQL can be used to enter and view data but data pipelines must be defined in a Python or MATLAB environment. DataJoint is therefore ideal for labs with members that are already familiar with these languages, otherwise its use will require extensive training. DataJoint has both documentation and tutorials, which are easy to follow and conveniently uses neuroscience examples. 
 
