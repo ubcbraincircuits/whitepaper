@@ -5,6 +5,13 @@ system developed by the `Center for Open Science (COS) <https://cos.io/>`_.
 
 The following introduction is based on the `OSF Guides <https://help.osf.io/hc/en-us>`_.
 
+.. attention::
+	`osfclient <https://github.com/osfclient/osfclient>`_ is a Python module and command-line program for executing 
+	commands in OSF, such as uploading and downloading files and folders. 
+	
+	A tutorial on osfclient created for and by the Brain Circuits cluster is available as a `Jupyter notebook <https://github.com/ubcbraincircuits/osfclienttutorial>`_.
+	View a browser-friendly version of the notebook `here <https://nbviewer.jupyter.org/github/ubcbraincircuits/osfclienttutorial/blob/master/osfclient.ipynb>`__. 
+
 Storage and Backup
 ------------------
 OSF uses Google Cloud for active and archival storage and Amazon Glacier as a backup location. 
