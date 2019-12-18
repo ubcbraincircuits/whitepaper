@@ -11,6 +11,18 @@ The following introduction is based on the `OSF Guides <https://help.osf.io/hc/e
 	
 	A tutorial on osfclient created for and by the Brain Circuits cluster is available as a `Jupyter notebook <https://github.com/ubcbraincircuits/osfclienttutorial>`_.
 	View a browser-friendly version of the notebook `here <https://nbviewer.jupyter.org/github/ubcbraincircuits/osfclienttutorial/blob/master/osfclient.ipynb>`__. 
+	
+	
+OSF Institutions
+----------------
+
+UBC is an OSF Institution, which means researchers can affiliate their OSF account and projects with UBC and 
+they can log in using their university credentials. 
+
+Public projects affiliated with UBC appear in the institutional portal: https://osf.openscience.ubc.ca/.
+
+To find out how to connect your OSF account to UBC, visit the `OSF FAQ <https://openscience.ubc.ca/research/osf/faq/>`_ 
+page of the Open Science @ UBC website.
 
 Storage and Backup
 ------------------
