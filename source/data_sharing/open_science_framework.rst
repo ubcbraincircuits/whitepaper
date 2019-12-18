@@ -17,7 +17,7 @@ OSF Institutions
 ----------------
 
 UBC is an OSF Institution, which means researchers can affiliate their OSF account and projects with UBC and 
-they can log in using their university credentials. 
+log into OSF is possible using their university credentials. 
 
 Public projects affiliated with UBC appear in the institutional portal: https://osf.openscience.ubc.ca/.
 
