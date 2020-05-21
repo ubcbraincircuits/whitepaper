@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ==============================================================
-Welcome to the UBC Dynamic Brain Circuits Cluster White Paper!
+Welcome to the UBC Dynamic Brain Circuits Cluster White Paper!!
 ==============================================================
 
 Overview
