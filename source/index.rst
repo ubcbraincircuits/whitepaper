@@ -37,7 +37,12 @@ In pursuit of this goal, we have also provisioned resources for the use of the c
 
 Contents
 ========
-
+.. toctree::
+   :maxdepth: 1
+   :caption: Research Curtailment and Remote Work
+   
+   covid19/index
+   
 .. toctree::
    :maxdepth: 1
    :caption: Data Management and Data Sharing
