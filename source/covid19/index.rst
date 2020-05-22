@@ -12,7 +12,7 @@ Dynamic Brain Circuits slack description goes here.
 
 OSF
 ============
-Open Science Framework description goes here.
+Open Science Framework (OSF) is a free and open source project management tool. OSF enables collaboration on projects and streamlines the workflow process by integrating already existing platforms such as Dropbox and GitHub. UBC is an OSF Institution, which means researchers can affiliate their OSF account and projects with UBC and login to OSF is possible using their university credentials. 
 
 Remote Access
 ============
