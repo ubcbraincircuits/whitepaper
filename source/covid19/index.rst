@@ -20,7 +20,7 @@ Remote Access to computers can be achieved in many different ways.  Computers in
 
 Running jobs on the Alder computer cluster
 ============
-DMCBH Alder is a cluster computer with 9 nodes....
+Alder is a cluster computer managed by DMCBH NINC and UBC ARC.  It has 9 nodes.  Each node has 32-cores. Seven nodes have 128GB RAM, two have 512GB.  Job submission is managed by SLURM.  Example scripts presented by Justin are available on this Github repo.
 
 Remote data analysis with Jupyterhub
 ============
