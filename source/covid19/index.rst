@@ -20,8 +20,8 @@ Remote Access to computers can be achieved in many different ways.  Computers in
 
 Running jobs on the Alder computer cluster
 ============
-DMCBH Alder is a cluster computer with 9 nodes....
+DMCBH Alder is a cluster computer with 9 nodes. Alder storage is not backed up- it is intended as “scratch” space to support calculations by providing space for raw data, processed intermediates and results.  Backup can be achieved directly to Compute Canada via Globus or OSF via osfclient.
 
-Remote data analysis with Jupyterhub
+Remote data analysis with JupyterHub
 ============
-DMCBH Alder also has a Jupyterhub...
+DMCBH Alder also has a JupyterHub. JupyterHub is a notebook server that allows multiple users to access a pool of resources more powerful than a single workstation for interactive analysis. 
