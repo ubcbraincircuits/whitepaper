@@ -8,7 +8,7 @@ COVID-19 and UBC’s research curtailment are impacting all aspects of teaching 
 
 Slack Workspaces
 ============
-Dynamic Brain Circuits slack description goes here.
+Slack is a platform that facilitates communication during remote work. Slack workspaces can be organized into channels for specific needs, and members can communicate in a group or privately. Some uses of the DBC Slack include data analysis, project collaboration, and coordinating meetings.
 
 OSF
 ============
