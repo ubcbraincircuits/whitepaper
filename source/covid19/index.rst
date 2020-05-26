@@ -25,6 +25,6 @@ Running jobs on the Alder computer cluster
 DMCBH Alder is a cluster computer with 9 nodes. Alder increases the amount of work that can be done at a time by providing users with more powerful resources that can be selected based on the needs of a project. The Alder cluster has 1902 GB of RAM, 288 cores, and 512 TB of storage. 
 Alder storage is not backed up- it is intended as “scratch” space to support calculations by providing space for raw data, processed intermediates and results.
 
-Remote data analysis with Jupyterhub
+Remote data analysis with JupyterHub
 ============
 DMCBH Alder also has a JupyterHub. JupyterHub is a notebook server that allows multiple users to access a pool of resources more powerful than a single workstation for interactive analysis.
