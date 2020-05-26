@@ -8,11 +8,13 @@ COVID-19 and UBC’s research curtailment are impacting all aspects of teaching 
 
 Slack Workspaces
 ============
-Dynamic Brain Circuits slack description goes here.
+Slack is a platform that facilitates communication during remote work. Slack workspaces can be organized into channels for specific needs, and members can communicate in a group or privately. Some uses of the DBC Slack include data analysis, project collaboration, and coordinating meetings. 
+`Join the DMCBH Slack <https://join.slack.com/t/ubcdmcbh/signup>`_ 
+`Join the Dynamic Brain Circuits Slack <https://join.slack.com/t/dynamicbraincircuits/shared_invite/zt-ee3fk7sz-GYtQZOA0~04t7bziibQkpw>`_ 
 
 OSF
 ============
-Open Science Framework description goes here.
+Open Science Framework (OSF) is a free and open source project management tool. OSF enables collaboration on projects and streamlines the workflow process by integrating already existing platforms such as Dropbox and GitHub. UBC is an OSF Institution, which means researchers can affiliate their OSF account and projects with UBC and login to OSF is possible using their university credentials.
 
 Remote Access
 ============
@@ -20,8 +22,9 @@ Remote Access to computers can be achieved in many different ways.  Computers in
 
 Running jobs on the Alder computer cluster
 ============
-DMCBH Alder is a cluster computer with 9 nodes....
+DMCBH Alder is a cluster computer with 9 nodes. Alder increases the amount of work that can be done at a time by providing users with more powerful resources that can be selected based on the needs of a project. The Alder cluster has 1902 GB of RAM, 288 cores, and 512 TB of storage. 
+Alder storage is not backed up- it is intended as “scratch” space to support calculations by providing space for raw data, processed intermediates and results.
 
 Remote data analysis with Jupyterhub
 ============
-DMCBH Alder also has a Jupyterhub...
+DMCBH Alder also has a JupyterHub. JupyterHub is a notebook server that allows multiple users to access a pool of resources more powerful than a single workstation for interactive analysis.
