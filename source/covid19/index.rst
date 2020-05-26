@@ -10,7 +10,8 @@ Slack Workspaces
 ============
 Slack is a platform that facilitates communication during remote work. Slack workspaces can be organized into channels for specific needs, and members can communicate in a group or privately. Some uses of the DBC Slack include data analysis, project collaboration, and coordinating meetings.   
 
-`Join the DMCBH Slack <https://join.slack.com/t/ubcdmcbh/signup>`_   
+`Join the DMCBH Slack <https://join.slack.com/t/ubcdmcbh/signup>`_    
+ 
 `Join the Dynamic Brain Circuits Slack <https://join.slack.com/t/dynamicbraincircuits/shared_invite/zt-ee3fk7sz-GYtQZOA0~04t7bziibQkpw>`_ 
 
 OSF
