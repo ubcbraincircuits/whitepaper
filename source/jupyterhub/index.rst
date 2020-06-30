@@ -27,7 +27,15 @@ Benefits and features:
 
 Resource Allocation
 -------------------
-Currently, when users log in to a notebook session, they are allocated the following resources: 4 CPUs and 16 GB RAM. 
+Currently, when users log in to a notebook session, they can choose from the following resources:  
+
+ * 4 CPUs and 16 GB RAM  
+ * 8 CPUs and 32 GB RAM
+ * 16 CPUs and 64 GB RAM
+ * 32 CPUs and 128 GB RAM  
+ * 16 CPUs and 256 GB RAM
+ * 32 CPUs and 512 GB RAM
+  
 
 Future Directions for Resource Allocation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
