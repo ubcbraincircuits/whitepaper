@@ -32,10 +32,10 @@ Procedure
 
 Alder
 -----
-Alder is the DMCBH cluster. It has a total of 288 cores and 2304 GB of RAM with the following configuration:
+Alder is the DMCBH cluster. It has a total of 288 cores and 1920 GB of RAM with the following configuration:
 
 * 2 x 32 core nodes with 512 GB of RAM (16 GB per CPU)
-* 7 x 32 core nodes with 256 GB of RAM (8 GB per CPU). This includes the login node.
+* 7 x 32 core nodes with 128 GB of RAM (4 GB per CPU).
 
 It has 512 TB of scratch storage. It is not purged but is not backed up. It should be used only for jobs and not for storage or backup purposes.
 
