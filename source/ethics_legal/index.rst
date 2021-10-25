@@ -8,6 +8,12 @@ UBC’s Chief Information Officer has published Information Security Standards, 
 2. `Information Security Standard #01: Security Classification of UBC Electronic Information <https://cio.ubc.ca/sites/cio.ubc.ca/files/documents/standards/Std%2001%20Security%20Classification%20of%20UBC%20Electronic%20Information.pdf>`_
 3. `Information Security Standard #03: Transmission and Sharing of UBC Electronic Information <https://cio.ubc.ca/sites/cio.ubc.ca/files/documents/standards/Std%2003%20Transmission%20and%20Sharing%20of%20UBC%20Electronic%20Information.pdf>`_
 
+Obtaining Informed Consent
+=====================================================
+
+Please see 
+`Sensitive Data Toolkit for Researchers Part 3: Research Data Management Language for Informed Consent <https://zenodo.org/record/4107178#.YXceS0bMLAP>`_
+
 Security Classification of UBC Electronic Information
 =====================================================
 **UBC Electronic Information** is “electronic information needed to conduct University Business” as defined in Policy 104, Acceptable Use and Security of UBC Electronic Information and Systems.
