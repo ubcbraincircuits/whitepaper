@@ -29,16 +29,6 @@ Procedure
 .. tip::
    There is a wealth of documentation provided by Compute Canada and WestGrid that should serve to fill in any gaps left by these docs.
 
-
-Alder
------
-Alder is the DMCBH cluster. It has a total of 288 cores and 1920 GB of RAM with the following configuration:
-
-* 2 x 32 core nodes with 512 GB of RAM (16 GB per CPU)
-* 7 x 32 core nodes with 128 GB of RAM (4 GB per CPU).
-
-It has 512 TB of scratch storage. It is not purged but is not backed up. It should be used only for jobs and not for storage or backup purposes.
-
 Procedure
 ~~~~~~~~~
 To obtain an account on Alder, your PI must sponsor you and send an account request to `support@arc.ubc.ca`_. You must be affiliated with the cluster to apply for an account.
