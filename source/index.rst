@@ -64,7 +64,7 @@ Contents
    :maxdepth: 1
    :caption: HPC, Tutorials and Examples
 
-   alder_compute_canada/index
+   hpc/index
    backups/index
    encryption/index
    jupyterhub/index
