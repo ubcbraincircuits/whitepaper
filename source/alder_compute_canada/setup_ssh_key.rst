@@ -103,11 +103,6 @@ If a ``~/.ssh/config`` does not already exist, create it. Add to the file the fo
       User  username
       ForwardAgent  yes
 
-    Host alder
-      Hostname  alder.arc.ubc.ca
-      User  username
-      ForwardAgent  yes
-
 Where ``username`` is your username on the remote computer. You can add other blocks like these 
 for other remote computers if you wish. 
 
@@ -115,13 +110,13 @@ Now, you should be able to log in to a remote machine using only ``ssh <host>`` 
 
 .. code-block:: bash
 
-    $ ssh alder
+    $ ssh cedar
 
 Instead of 
 
 .. code-block:: bash
 
-    $ ssh user@alder.arc.ubc.ca
+    $ ssh user@cedar.arc.ubc.ca
 
 
 4) Install your ssh public key on the remote machines
@@ -130,7 +125,7 @@ Copy your public key to each of the remote machines in your ``~/.ssh/config`` fi
 
 .. code-block:: bash
 
-    $ ssh-copy-id -i $HOME/.ssh/id_rsa alder
+    $ ssh-copy-id -i $HOME/.ssh/id_rsa cedar
 
 You will be prompted for your password on the remote machine and the key will be installed.
 
