@@ -26,13 +26,6 @@ Input your password and press enter.
 
 Examples
 ~~~~~~~~
-Alder
-^^^^^
-
-.. code-block:: bash
-
-   $ ssh <username>@alder.arc.ubc.ca
-
 Compute Canada Clusters
 ^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -59,7 +52,7 @@ B. Using PuTTY
 Download and install the latest version of PuTTY from `here <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_
 
 Open up PuTTY.
-Under the **Session** section, set the **Host Name** to the appropriate server e.g. ``alder.arc.ubc.ca``, ``cedar.computecanada.ca``, and so on.
+Under the **Session** section, set the **Host Name** to the appropriate server e.g. ``cedar.computecanada.ca``, and so on.
 
 .. image:: 1connect.PNG
 
