@@ -4,9 +4,6 @@ Data Transfer and Backup on Remote Computers
 
 This section covers the use of tools like ``scp``, ``Rsync``, ``sftp`` and Globus to make transfers and backups. While the examples place an emphasis on Compute Canada, they can be generalised to apply to any remote computer.
 
-.. Note::
-   The storage on Alder is only to be used as Scratch space and is not backed up. Files should not be stored on Alder for longer than 60 days.
-
 ``rsync-time-backup``
 =====================
 ``rsync-time-backup`` is a utility available `here <https://github.com/laurent22/rsync-time-backup>`_ that builds on top of ``Rsync``. 
