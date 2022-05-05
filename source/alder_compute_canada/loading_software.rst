@@ -4,7 +4,7 @@ Loading Software
 Working with Modules
 --------------------
 
-On Alder and Compute Canada Systems, a list of all available modules can be obtained by running:
+On Compute Canada Systems, a list of all available modules can be obtained by running:
 
 .. code-block:: bash
    
