@@ -56,8 +56,6 @@ eliminate ambiguity, support versioning, be concise, and be conscious of directo
 Resources on file naming conventions:
 
 * UBC Library - `Organize <http://researchdata.library.ubc.ca/plan/organize-your-data>`_
-* The University of Edinburgh - `Naming Conventions <http://ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions>`_
-* Stanford Libraries - `Best Practices for File Naming <http://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming>`_
 
 Best Practices from Exemplar Labs
 ---------------------------------
