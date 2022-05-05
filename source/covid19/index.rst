@@ -24,4 +24,4 @@ Remote Access to computers can be achieved in many different ways.  Computers in
 
 Remote data analysis with JupyterHub
 ============
-DMCBH Alder also has a JupyterHub. JupyterHub is a notebook server that allows multiple users to access a pool of resources more powerful than a single workstation for interactive analysis.
+JupyterHub is a notebook server that allows multiple users to access a pool of resources more powerful than a single workstation for interactive analysis.
