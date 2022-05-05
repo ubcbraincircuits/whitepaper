@@ -4,7 +4,7 @@ HPC Working Environments
 
 Instructions and recommendations on setting up your working environments and workflows on High Performance Computing (HPC) systems such as:
 
-* Compute Canada and Westgrid clusters
+* Digital Research Alliance of Canada (formerly Compute Canada and Westgrid clusters)
 
 These systems use similar software configurations. Where procedures differ between systems, this will be indicated. Otherwise, a generalized approach will be used in the documentation that follows. 
 
