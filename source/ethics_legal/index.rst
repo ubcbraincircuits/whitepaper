@@ -34,7 +34,7 @@ Section 11 must also be heeded for decisions regarding data storage and sharing.
 
     Subject to section 9, if the User is using personal accounts or other information sharing tools to share UBC Electronic Information, they are responsible for ensuring that a copy of this information is stored on UBC Systems, in addition to any desktop computers and mobile devices, at all times.
 
-**UBC Systems** include but is not limited to Compute Canada, Teamshare, Educloud, FRDR, Dataverse, Alder, and servers and computer systems in UBC. Hence, it is recommended that data is stored and/or shared on UBC Systems first if other services are to be used. 
+**UBC Systems** include but is not limited to Compute Canada, Teamshare, Educloud, FRDR, Dataverse, and servers and computer systems in UBC. Hence, it is recommended that data is stored and/or shared on UBC Systems first if other services are to be used. 
 
 Please be advised that sharing of Very High, High, and Medium Risk UBC Electronic Information through personal email is not permitted under Policy 104, Acceptable Use and
 Security of UBC Electronic Information and Systems. Contact information of UBC faculty and staff is considered low risk information and is not recommended for sharing through personal email. It is therefore highly recommended for members of the lab to secure and use a UBC email account for University Business. 
