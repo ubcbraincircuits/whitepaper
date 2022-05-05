@@ -14,7 +14,7 @@ jupyter.
 Begin by going to the `Anaconda website <https://www.anaconda.com/distribution/>`_ and copying the 
 link to the lastest Linux '64-Bit (x86) Installer.
 
-Download it onto alder using
+Download it using
 ``wget "<link to installer file>"`` e.g.
 
 .. code-block:: bash
