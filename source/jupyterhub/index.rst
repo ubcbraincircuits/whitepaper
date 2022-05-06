@@ -6,8 +6,6 @@ Introduction
 ============
 JupyterHub is a multi-user notebook server, allowing multiple users to access a pool of resources for interactive analysis. 
 
-We have collaborated with the Pacific Institute for Mathematical Sciences to deploy an instance of a JupyterHub on Alder, the DMCBH compute cluster, which can be accessed `here <https://jupyter.alder.arc.ubc.ca/>`_.
-
 Python 3.7.4 (`list of packages <https://github.com/ubcbraincircuits/whitepaper/blob/master/source/jupyterhub/python_packages.txt>`_) and R 3.6.1 (`list of packages <https://github.com/ubcbraincircuits/whitepaper/blob/master/source/jupyterhub/r_packages.txt>`_) kernels are currently installed, with multiple packages already available.
 
 Benefits and features:
@@ -20,8 +18,7 @@ Benefits and features:
 .. note:: 
    To use the JupyterHub, you must
    
-   1. be affiliated with DMCBH and
-   2. have an account on Alder. To obtain an account on Alder, you must be sponsored by your PI and you must send an account request to arc.support@ubc.ca 
+   1. be affiliated with DMCBH 
    
    To install packages, contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ with your requirements.
 
