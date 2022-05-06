@@ -18,20 +18,13 @@ Benefits and features:
 .. note:: 
    To use the JupyterHub, you must
    
-   1. be affiliated with DMCBH 
+   1. use your Compute Canada username and password to login 
    
    To install packages, contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ with your requirements.
 
 Resource Allocation
 -------------------
-Currently, when users log in to a notebook session, they can choose from the following resources:  
-
- * 4 CPUs and 16 GB RAM  
- * 8 CPUs and 32 GB RAM
- * 16 CPUs and 64 GB RAM
- * 32 CPUs and 128 GB RAM  
- * 16 CPUs and 256 GB RAM
- * 32 CPUs and 512 GB RAM
+Currently, when users log in to a notebook session, they can specify a certain number of cores and memory.
   
 
 Future Directions for Resource Allocation
