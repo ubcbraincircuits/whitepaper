@@ -99,7 +99,7 @@ For instance,
 
 .. code-block:: bash
 
-   $ sftp john@alder.arc.ubc.ca
+   $ sftp john@cedar.arc.ubc.ca
 
 If you set up your ``SSH`` key on the remote computer, you won't even need a password.
 
