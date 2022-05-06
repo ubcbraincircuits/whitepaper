@@ -19,4 +19,3 @@ This documentation was written to accommodate users on a variety of operating sy
    loading_software
    python_environment
    run_jupyter_remotely
-   
