@@ -11,5 +11,5 @@ UBC ARC Sockeye (“Sockeye”) is a high-performance computing platform availab
 
 Signing Up
 ----------
-Applications for Sockeye can be found under the SOCKEYE RESOURCE ALLOCATION section on `UBC's ARC Sockeye page <https://arc.ubc.ca/ubc-arc-sockeye>`_. 
-Applications for Chinook can be found under the WHO CAN APPLY– CHINOOK RESOURCE ALLOCATIONS section on `UBC's ARC Chinook page <https://arc.ubc.ca/ubc-arc-sockeye>`_. 
+Applications for Sockeye can be found under the Sockeye Resource Allocation section on `UBC's ARC Sockeye page <https://arc.ubc.ca/ubc-arc-sockeye>`_. 
+Applications for Chinook can be found under the Who Can Apply - Chinook Resource Allocations section on `UBC's ARC Chinook page <https://arc.ubc.ca/ubc-arc-sockeye>`_. 
