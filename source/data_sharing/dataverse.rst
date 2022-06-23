@@ -1,6 +1,6 @@
 Borealis: The Canadian Dataverse Repository
 =========================
-`Borealis <https://dataverse.scholarsportal.info>`_ is a publicly accessible and secure Canadian 
+`Borealis <https://borealisdata.ca/>`_ is a publicly accessible and secure Canadian 
 data repository provided by Scholars Portal on behalf of the `Ontario Council of University 
 Libraries (OCUL) <https://ocul.on.ca/>`_ and other participating institutions. Borealis can be used by 
 affiliated researchers to deposit, share, and archive research data.
