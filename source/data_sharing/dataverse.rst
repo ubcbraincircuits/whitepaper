@@ -1,12 +1,12 @@
-Scholars Portal Dataverse
+Borealis: The Canadian Dataverse Repository
 =========================
-`Scholars Portal Dataverse <https://dataverse.scholarsportal.info>`_ is a publicly accessible and secure Canadian 
+`Borealis <https://dataverse.scholarsportal.info>`_ is a publicly accessible and secure Canadian 
 data repository provided by Scholars Portal on behalf of the `Ontario Council of University 
-Libraries (OCUL) <https://ocul.on.ca/>`_ and other participating institutions. Dataverse can be used by 
+Libraries (OCUL) <https://ocul.on.ca/>`_ and other participating institutions. Borealis can be used by 
 affiliated researchers to deposit, share, and archive research data.
 
 .. tip::
-	Consult the `Scholars Portal Dataverse User Guide <https://dataverse.scholarsportal.info/guides/en/latest/user/>`_ 
+	Consult the `Borealis User Guide <https://dataverse.scholarsportal.info/guides/en/latest/user/>`_ 
 	for more information.
 
 .. attention::
@@ -21,7 +21,7 @@ Storage and Backup
 
 Location
 ~~~~~~~~
-The Scholars Portal Dataverse is hosted in Canada at the University of Toronto Libraries. 
+Borealis is hosted in Canada at the University of Toronto Libraries. 
 Although institutional Datavarses can be set up, the data is still stored at this 
 data center.
 
@@ -29,7 +29,7 @@ Size Limits
 ~~~~~~~~~~~
 
 .. attention:: 
-	The limit for an individual file upload on Scholars Portal Dataverse is **2.5 GB**.
+	The limit for an individual file upload on Borealis is **2.5 GB**.
 	
 	There is no set limit on the overall storage per dataverse. 
 
