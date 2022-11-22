@@ -6,12 +6,12 @@ Libraries (OCUL) <https://ocul.on.ca/>`_ and other participating institutions. B
 affiliated researchers to deposit, share, and archive research data.
 
 .. tip::
-	Consult the `Borealis User Guide <https://dataverse.scholarsportal.info/guides/en/latest/user/>`_ 
+	Consult the `Borealis User Guide <https://borealisdata.ca/guides/en/latest/user/>`_ 
 	for more information.
 
 .. attention::
 	We are pleased to announced that we have set up 
-	a `dataverse <https://dataverse.scholarsportal.info/dataverse/UBC_BrainCircuits>`_ for the cluster within the UBC dataverse, 
+	a `dataverse <https://borealisdata.ca/dataverse/UBC_BrainCircuits>`_ for the cluster within the UBC dataverse, 
 	under which we can set up dataverses for individual labs. 
 	
 	Contact `Jeffrey LeDue <mailto:jledue\@mail.ubc.ca>`_ to set up a dataverse for your lab.
